@@ -1,4 +1,4 @@
-<template>
+emplate>
   <div>
     <center class="mt-4">
       <TextTitle title="My name is Kristian" />
@@ -51,7 +51,17 @@ export default {
           title: "Read my notes",
           description: "They are not too messy",
           to: "/content",
-        }
+        },
+        {
+          title: "CV",
+          description: "And other fun stuff",
+          to: "/cv",
+        },
+        /* { */
+        /*   title: "Consulting", */
+        /*   description: "And what services I offer", */
+        /*   to: "/consulting", */
+        /* }, */
       ],
     };
   },
