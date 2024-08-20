@@ -2,11 +2,11 @@
   <v-app style="background: #f2f2f2">
     <v-main>
       <v-container>
-        <center>
+        <!--<center>
           <nuxt-link to="/">
             <v-btn small color="orange" text>home</v-btn>
           </nuxt-link>
-        </center>
+        </center> -->
         <slot name="main">
             MAIN SLOT
         </slot>
