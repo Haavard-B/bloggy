@@ -6,8 +6,7 @@
 export default {
   data() {
     return {
-      selectedCategory: {name:"Select a topic", path: null},
-      categories: REPLACE_WITH_FOLDER_INFO,
+      selectedCategory: {name:"Select a topic", path: null}
     }
   },
 
