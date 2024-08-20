@@ -1,4 +1,4 @@
-emplate>
+<Template>
   <div>
     <center class="mt-4">
       <TextTitle title="My name is Kristian" />
