@@ -23,12 +23,12 @@ export default {
         {
           hid: "og:url",
           property: "og:url",
-          content: "https://min-blogg.netlify.app/content/" + this.$route.params.pathMatch,
+          content: "https://haavard.netlify.app/content" + this.$route.params.pathMatch,
         },
         {
           hid: "twitter:url",
           property: "twitter:url",
-          content: "https://min-blogg.netlify.app/content/" + this.$route.params.pathMatch,
+          content: "https://haavard.netlify.app/content" + this.$route.params.pathMatch,
         },
         {
           hid: "og:type",
