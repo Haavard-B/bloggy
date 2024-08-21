@@ -5,16 +5,16 @@ readButton: Curious?
 readable: true
 ---
 
-# General Machine-Learning Recourses
+### General Machine-Learning Recourses
 
 
 
-# NEAT Recourses
+### NEAT Recourses
 
 
 
-# Macroeconomic Recourses
+### Macroeconomic Recourses
 
 
 
-# Financial Market Recourses 
+### Financial Market Recourses 

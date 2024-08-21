@@ -28,7 +28,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - bloggy',
+    titleTemplate: 'Some thoughts',
     title: 'bloggy',
     htmlAttrs: {
       lang: 'en'
