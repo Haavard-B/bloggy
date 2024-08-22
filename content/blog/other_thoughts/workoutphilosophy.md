@@ -1,6 +1,6 @@
 ---
-title: You should do your best, not because you should, but because you can
+title: Workout-Philosophy
 
 ---
 
-The gist of it is just that - Will write more later
+The gist of it is 'Train your hardest because you can, not because you should' - Will write more later
