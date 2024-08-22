@@ -1,4 +1,4 @@
-.nuxt-content h1 {
+.nuxt-content h1 { /* Alters title for when # is used */
     text-align: center;
     font-weight:2;
     font-size: 60px;
@@ -10,30 +10,30 @@
     word-wrap: break-word;
 }
 
-.nuxt-content h2 {
+.nuxt-content h2 { /* Alters title for when ## is used */
     word-wrap: break-word;
 font-weight:lighter;
 font-size: 28px;
 margin-top: 50px;
 margin-bottom: 50px;
 }
-.nuxt-content h3 {
+.nuxt-content h3 { /* Alters title for when ### is used */
     word-wrap: break-word;
 font-weight:lighter;
 font-size: 22px;
 margin-top: 50px;
 margin-bottom: 35px;
 }
-.nuxt-content h4 {
+.nuxt-content h4 { /* Alters title for when #### is used */
 word-wrap: break-word;
 font-weight:lighter;
 font-size: 18px;
 margin-top: 25px;
 margin-bottom: 10px;
 }
-.nuxt-content p {
+.nuxt-content p { /* Alters General text */
 margin-top:20px;
-font-size: 13px;
+font-size: 13px; 
 }
 
 .nuxt-content em {
