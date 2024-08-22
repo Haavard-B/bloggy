@@ -1,5 +1,5 @@
 ---
-title: The Sustainability-AI Tradeoff
+title: The ESG-AI Tradeoff
 
 ---
 
