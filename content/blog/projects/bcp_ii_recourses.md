@@ -5,9 +5,10 @@ readButton: Curious?
 readable: true
 ---
 
-#### General Machine-Learning Recourses
+#### General Statistics/Machine-Learning Recourses
 ##### Youtube
-test etest test tesst stasta asdasdasd
+[3Blue1Brown](https://www.youtube.com/@3blue1brown)
+[StatQuest with Josh Starmet](https://www.youtube.com/@statquest)
 
 ##### Books
 
