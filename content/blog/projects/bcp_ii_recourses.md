@@ -14,7 +14,7 @@ test etest test tesst stasta asdasdasd
 
 
 ##### Other Recourses
-
+Andrew Ng's introductory Coursera courses on [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction?) and [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 
 
