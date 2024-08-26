@@ -59,7 +59,7 @@ Goldman Sachs' [Public Research](https://www.gspublishing.com/content/public.htm
 
 
 #### Other Relevant and/or Interesting Resources
-
+Landsem, J., Njølstad, E., Paulsen, K. S., Robstad, Ø., & Åstebøl, M. (2022). Finding Dory (Staff Memo No. 2/2022). [Norges Bank](https://www.norges-bank.no/en/news-events/news-publications/Papers/Staff-Memo/2022/sm-2-2022/)
 
 
 
