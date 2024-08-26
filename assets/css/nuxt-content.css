@@ -31,6 +31,13 @@ font-size: 18px;
 margin-top: 25px;
 margin-bottom: 10px;
 }
+.nuxt-content h5 { /* Alters title for when ##### is used */
+    word-wrap: break-word;
+    font-weight:lighter;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    }
 .nuxt-content p { /* Alters General text */
 margin-top:20px;
 font-size: 13px; 
