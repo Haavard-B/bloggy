@@ -6,16 +6,42 @@ readable: true
 ---
 
 #### General Machine-Learning Recourses
-##### Test
+##### Youtube
 test etest test tesst stasta asdasdasd
+
+##### Books
+
+
+
+##### Other Recourses
+
+
 
 
 #### NEAT Recourses
 
+##### Papers
 
 
 #### Macroeconomic Recourses
 
+##### Books
+
+
+##### Other Recourses
 
 
 #### Financial Market Recourses 
+
+##### Books
+
+
+
+##### Papers
+
+
+
+
+
+
+#### Other Relevant Resources
