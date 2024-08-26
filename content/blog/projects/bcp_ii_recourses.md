@@ -26,8 +26,11 @@ Andrew Ng's introductory Coursera courses on [Machine Learning](https://www.cour
 
 #### Macroeconomic Recourses
 
-##### Books and Articles
+##### Books
 Romer, David. (2022). Advanced Macroeconomics. 5th ed., McGraw-Hill Education
+
+
+##### Articles
 Romer, C. D. (1999). Changes in Business Cycles: Evidence and Explanations, Journal of Economic
 Perspectives 13, 23-44
 (S) Romer, Christina & David Romer (2019) NBER Business Cycle Dating: Retrospect and Prospect,
