@@ -3,7 +3,7 @@ title: Creatine works but...
 
 ---
 
-Here are some resources for those sceptical and for those saying "Det er ingen forskning som viser at det fungerer. Null".
+Here are some resources for those sceptical and for those saying "Det er ingen forskning som viser at det fungerer. Null." (You know who you are).
 
 Creatine is a compound found in muscle cells that helps produce adenosine triphosphate (ATP), the primary energy source for short bursts of high-intensity exercise. By increasing ATP levels through, amongst other sources, creatine supplements, you may experience:
 - Increased strength and power (Enhanced Performance in high-intensity activities);
