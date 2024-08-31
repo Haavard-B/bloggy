@@ -56,8 +56,8 @@ font-size: 13px;
 .nuxt-content li {
     list-style-type: "- ";
     padding-left: 10px;
-    font-size: 17px;
-    margin-bottom: 30px;
+    font-size: 13px;
+    margin-bottom: 20px;
 }
 
 .nuxt-content ul {
