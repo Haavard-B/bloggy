@@ -53,11 +53,11 @@ font-size: 13px;
     font-size: 20px;
 }
 
-.nuxt-content li {
+.nuxt-content li { /* To create lists using - */
     list-style-type: "- ";
     padding-left: 10px;
     font-size: 13px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .nuxt-content ul {
