@@ -33,4 +33,4 @@ However, that’s not to say that creatine is some sort of miracle supplement. V
 - Wallimann, T., Tokarska-Schlattner, M., & Schlattner, U. (2011). The creatine kinase system and pleiotropic effects of creatine. Amino Acids, 40, 1271–1296. (This review examines creatine's role in the creatine kinase system, highlighting its functions as an energy buffer, shuttle, and metabolic regulator. It underscores creatine's benefits for muscle growth, neuroprotection, and potential applications in healthcare for elderly individuals, infants, and patients in intensive care. The review also notes creatine’s broader implications for nutrition and ecological applications)
 
 
-As a last note. Multiple papers also point to how creatine may be associated with accelareted hair loss. So that kind of sucks.
+As a last note, multiple papers also point to how creatine may be associated with accelareted hair loss. So that kind of sucks.
