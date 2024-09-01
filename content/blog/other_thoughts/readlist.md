@@ -19,4 +19,4 @@ title: To-be-read-list
 
 
 #### Resources
-- (Oxford Handbooks on Philosophy)[https://www.thriftbooks.com/series/oxford-handbooks-in-philosophy/71161/?srsltid=AfmBOor5uIlGjdon8tXVAnLz1O8eaEISIGEbaX60wQ-6EvxcCzGlygi1]
+- [Oxford Handbooks on Philosophy](https://www.thriftbooks.com/series/oxford-handbooks-in-philosophy/71161/?srsltid=AfmBOor5uIlGjdon8tXVAnLz1O8eaEISIGEbaX60wQ-6EvxcCzGlygi1)
