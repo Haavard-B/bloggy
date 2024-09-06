@@ -3,7 +3,7 @@
     <center class="container">
         <TextTitle :title="page.title" />
         <h2 class="grey--text mt-2 font-weight-thin">{{ page.description }}</h2>
-        <p v-if="page.date" class="grey--text mt-2">{{ page.date }}</p>
+        <p v-if="page.date" class="grey--text mt-2 font-weight-thin">{{ page.date }}</p>
     </center>
     <div class="rounded py-6">
       <nuxt-content class="px-5" :document="page" />
