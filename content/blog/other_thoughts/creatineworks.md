@@ -1,11 +1,9 @@
 ---
 title: Creatine works but...
+date: 31.08.2024
 readButton: Curious?
 readable: true
 ---
-
-31.08.2024
-
 
 Here are some resources for those sceptical and for those saying "Det er ingen forskning som viser at det fungerer. Null." (You know who you are).
 
