@@ -103,7 +103,7 @@ export default {
 
 <style scoped>
 .container {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   border-radius: 10px;
 }
 </style>
