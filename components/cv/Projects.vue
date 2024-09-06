@@ -24,6 +24,7 @@ export default {
   props: [
     "title",
     "description",
+    "date",
     "imageUrl",
     "technologyUsed",
     "amountOfMonths",

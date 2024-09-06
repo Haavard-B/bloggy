@@ -86,6 +86,7 @@ export default {
             .only([
               "title",
               "description",
+              "date",
               "pathPrefix",
               "slug",
               "coverImage",
