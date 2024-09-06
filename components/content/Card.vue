@@ -1,10 +1,10 @@
 <template>
   <nuxtLink :to="`/content/${selectedCategory.path}/${page.slug}`">
-      <v-card class="motion pa-4" width="350" :style="{ marginBottom: '10px' }">
+      <v-card class="motion pa-4" width="350">
           <h2>{{ page.title }}</h2>
           <p class="mt-4">{{ page.description }}</p>
           <p v-if="page.date" class="mt-4">{{ page.date }}</p>
-          <div class="mt-5 mb-4"></div>
+          <div class="mt-5 mb-2"></div>
 
           <v-img
 		  v-if="page.coverImage"
