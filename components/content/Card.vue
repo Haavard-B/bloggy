@@ -4,7 +4,7 @@
           <h2>{{ page.title }}</h2>
           <p class="mt-4">{{ page.description }}</p>
           <p v-if="page.date" class="mt-4">{{ page.date }}</p>
-          <div class="mt-5 mb-2"></div>
+          <div class="mt-5 mb-1"></div>
 
           <v-img
 		  v-if="page.coverImage"
