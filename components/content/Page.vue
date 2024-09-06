@@ -38,7 +38,6 @@
           >
 
           <ContentCard :page="page" :selectedCategory="selectedCategory" />
-          <p v-if="page.date" class="grey--text mt-4">{{ page.date }}</p>
           </MyCols>
         </center>
       </div>
