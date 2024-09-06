@@ -1,7 +1,7 @@
 ---
 title: The Idea of Predicting Business Cycles
 description: BCP - I
-description: 01.09.2024
+description: "01.09.2024"
 readButton: Curious?
 readable: true
 ---
