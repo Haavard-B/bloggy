@@ -5,6 +5,7 @@
       <h1 class="title">{{title}}</h1>
       <center>
         <p class="grey--text">{{ description }}</p>
+        <p v-if="date" class="grey--text">{{ date }}</p>
         <v-img class="mb-10" width="400" :src="imageUrl" />
       </center>
       <slot />
