@@ -1,6 +1,6 @@
 <template>
   <nuxtLink :to="`/content/${selectedCategory.path}/${page.slug}`">
-      <v-card class="motion pa-4" width="350">
+      <v-card class="motion pa-2" width="350">
           <h2>{{ page.title }}</h2>
           <p class="mt-4">{{ page.description }}</p>
           <p v-if="page.date" class="mt-2">{{ page.date }}</p>
