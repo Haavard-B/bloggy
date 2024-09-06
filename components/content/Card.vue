@@ -3,8 +3,8 @@
       <v-card class="motion pa-4" width="350">
           <h2>{{ page.title }}</h2>
           <p class="mt-4">{{ page.description }}</p>
-          <p v-if="page.date" class="mt-4">{{ page.date }}</p>
-          <div class="mt-5 mb-1"></div>
+          <p v-if="page.date" class="mt-2 mb-2">{{ page.date }}</p>
+          <div class="mt-5 mb-4"></div>
 
           <v-img
 		  v-if="page.coverImage"
