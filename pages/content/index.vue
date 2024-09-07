@@ -10,7 +10,7 @@ export default {
       categories: [
         {name:"projects", path: "blog/projects"},
         {name:"essays", path: "blog/essays"},
-        {name:"other thoughts", path: "blog/other_thoughts"},
+        {name:"other thoughts and notes", path: "blog/other_thoughts_and_notes"},
       ],
     }
   },
