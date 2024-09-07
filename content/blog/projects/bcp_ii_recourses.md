@@ -1,8 +1,6 @@
 ---
 title: Various recourses related to Business Cycle Predictions
 description: BCP - II
-readButton: Curious?
-readable: true
 ---
 
 #### General Statistics/Machine-Learning Recourses

@@ -1,7 +1,5 @@
 ---
 title: To-be-read-list
-readButton: Curious?
-readable: true
 ---
 
 #### Philosphy
