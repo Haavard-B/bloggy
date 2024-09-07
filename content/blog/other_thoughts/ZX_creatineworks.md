@@ -1,5 +1,6 @@
 ---
 title: Creatine works but...
+description: Exercise log and notes
 date: 31.08.2024
 ---
 
