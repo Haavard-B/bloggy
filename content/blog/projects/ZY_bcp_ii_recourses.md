@@ -4,9 +4,9 @@ description: BCP - II
 ---
 
 #### General Statistics/Machine-Learning Recourses
-##### Youtube
+##### YouTube
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-- [StatQuest with Josh Starmet](https://www.youtube.com/@statquest)
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 
 ##### Books
 
