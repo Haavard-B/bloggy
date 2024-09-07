@@ -1,5 +1,5 @@
 ---
-title: Workout-Philosophy
+title: My Exercise-Philosophy
 description: Exercise log and notes
 ---
 
