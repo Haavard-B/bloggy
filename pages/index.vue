@@ -11,7 +11,7 @@ export default {
         {name:"projects", path: "blog/projects"},
         {name:"essays", path: "blog/essays"},
         {name:"other thoughts", path: "blog/other_thoughts"},
-
+        {name:"exercise log and notes", path: "blog/exercise_logs_and_notes"},
       ],
     }
   },
