@@ -6,6 +6,7 @@ date: 09.09.2024
 
 
 test test
-![image](static\public\bcp\roadmap_07092024.png)
+
+![image](/public/bcp/roadmap_07092024.png)
 
 test test

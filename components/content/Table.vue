@@ -30,8 +30,9 @@ table, th, td {
   border: 1px solid black;
 }
 th, td {
-  padding: 15px;
+  padding: 10px;
   text-align: left;
+  font-size: 13px;
 }
 </style>
 
