@@ -10,7 +10,7 @@ Imagine that you’re navigating through a dense forest. The trees around you ar
 
 Now, think about how these sensory details contribute to the atmosphere of the scene. What do they tell you about the  environment? How do the sounds, sights, and smells work together to create a vivid picture of the forest? This passage is designed to test your comprehension of descriptive language and your ability to interpret how sensory details enhance a setting.
 
-Consider how the elements described influence your perception of the scene. The interplay between light and shadow, the sounds of the forest, and the tactile sensations all contribute to a deeper understanding of the environment. Your task is to analyze these aspects and reflect on their significance.
+Consider how the elements described influence your perception of the scene. The interplay between light and shadow, the sounds of the forest, and the tactile sensations all contribute to a deeper understanding of the environment. Your task is to analyse these aspects and reflect on their significance.
 
 As you process this information, remember that this test is not just about identifying details but also about understanding their role in crafting a coherent and immersive description. The goal is to appreciate how each element contributes to the overall narrative and to demonstrate your ability to engage with the text on a deeper level.
 

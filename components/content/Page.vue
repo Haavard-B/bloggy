@@ -92,7 +92,7 @@ export default {
               "coverImage",
               "readButton",
             ])
-            .sortBy("createdAt", "asc")
+            .sortBy("date", "desc")
             .limit(null)
             .skip(0)
             .fetch()
