@@ -22,29 +22,35 @@ The following table outlines my weekly exercise schedule before any potential ad
 ]">
 </content-table>
 
+I also ensure that i continiously increase to progressively overload, and keeps notes on how much i do on each exercise, for may sets and reps. Primarely related to Gym and Climbing-focused exercises
+
 
 #### Gym
 
+3-4 sets on everything (3 if im feeling bad and am tired, 4 else)
+8-12 reps usually, where if im at 12 x 3-4 sets then increase weight till i can do at min. 6-8 reps x 3-4. 6 Reps are only accepted at certian exercises (such as pulldown and belt squats)
+
+Also focuses on building up the weights. So if I want to take 90kg pulldowns, i start iwht 10kg, then 40kg, then 60kg, then 90kg, one set each up until 90kg. The more weight i want to take, the more stages up till that  point. I do this to ensure good technique and that nothing hurts
 
 chest + shoulders + triceps
 <content-table :headers="['Exercise', 'Muscle Groups', 'Sets and Repitions', 'Additional Comments']" :rows="[
-    ['Iso-lateral Benchpress', '', '', ''],
-    ['Iso-lateral Dumbbell Shoulderpress', '', '', ''],
-    ['Uni-lateral Triceps Extension (Cable)', '', '', ''],
-    ['Uni-lateral Leaning Lateral Raise (Cable)', '', '', ''],
-    ['Iso-lateral Incline Dumbbell Benchpress', '', '', ''],
-    ['Iso-lateral Incline Flies', '', '', ''],
+    ['Iso-lateral Benchpress', '', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Dumbbell Shoulderpress', '', '3-4 Sets of 8-12 Reps', ''],
+    ['Uni-lateral Triceps Extension (Cable)', '', '3-4 Sets of 8-12 Reps', ''],
+    ['Uni-lateral Leaning Lateral Raise (Cable)', '', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Incline Dumbbell Benchpress', '', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Incline Flies', '', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
 back + biceps
 <content-table :headers="['Exercise', 'Muscle Groups', 'Sets and Repitions', 'Additional Comments']" :rows="[
-    ['Pullup', '', '', ''],
-    ['Uni-lateral External Rotation (Cable)', '', '', ''],
-    ['Uni-lateral Lever Underhand Pulldown', '', '', ''],
-    ['Uni-lateral Internal Rotation (Cable)', '', '', ''],
-    ['Iso-lateral Row', '', '', ''],
-    ['Uni-lateral Forward-leaning Bicep Curl (Cable)', '', ''],
+    ['Pullup', '', '3-4 Sets of 12 Reps', 'Serves as a harder warm-up'],
+    ['Uni-lateral External Rotation (Cable)', '', '3-4 Sets of 12-15 Reps', 'Low weights '],
+    ['Uni-lateral Lever Underhand Pulldown', '', '3-4 Sets of 6-12 Reps', ''],
+    ['Uni-lateral Internal Rotation (Cable)', '', '3-4 Sets of 12-15 Reps', ''],
+    ['Iso-lateral Row', '', '3-4 Sets of 8-12 Reps', ''],
+    ['Uni-lateral Forward-leaning Bicep Curl (Cable)', '', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
@@ -52,11 +58,11 @@ back + biceps
 
 legs
 <content-table :headers="['Exercise', 'Muscle Groups', 'Sets and Repitions', 'Additional Comments']" :rows="[
-    ['Belt Squats', '', '', ''],
-    ['Uni-lateral Standing Leg Curls', '', '', ''],
-    ['Calf raise', '', '', ''],
-    ['Quad-focused Hacksquat', '', '', ''],
-    ['Plate-loaded Hipthurst', '', '', ''],
+    ['Belt Squats', '', '4 Sets of 6-12 Reps', ''],
+    ['Uni-lateral Standing Leg Curls', '', '4 Sets for 8-12 Reps', ''],
+    ['Calf raise', '', '4 Sets of 10-15 Reps', ''],
+    ['Quad-focused Hacksquat', '', '3-4 Sets for 8-12 Reps', ''],
+    ['Plate-loaded Hipthurst', '', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
@@ -68,34 +74,37 @@ legs
 <content-table :headers="['Exercise', '', '', 'Additional Comments']" :rows="[
     ['Low-intensity cardio', '', '', ''],
     ['Medium-intensity cardio', '', '', ''],
-    ['High-intensity cardio', '', '', ''],
+    ['High-intensity cardio', '', '', 'Due to persisting knots in my calfs, this is not included in the plan'],
 ]">
 </content-table>
 
 
 #### Mobility
 
-<content-table :headers="['Muscle Groups', 'Exercises', '', 'Additional Comments']" :rows="[
+A combination of yoga and stretching exercises
+
+<content-table :headers="['Muscle Groups', 'Stretches and Poses', 'Stretches using a Foam-roller', 'Additional Comments']" :rows="[
     ['Wrists and Forearms', 'Wrist Rotation, Wrist Movement, Wrist Walks', '', ''],
-    ['Chest, Shoulders and Back', '', '', ''],
-    ['Abs, Legs and Hips', '', '', ''],
+    ['Chest, Shoulders and Back', 'Lateral Stretch, Seated Shoulder Extension, Thread The Needle, Downward-Facing Dog, Child`s pose, Cat/Cow', '', ''],
+    ['Abs, Legs and Hips', 'Cobra Pose (+ Cat/Cow from before), Deep Runner Lunge (+ World`s Greatest Stretch), 90/90, Seated Butterfly Pose, Garland pose, Frog Pose, Single-Leg Frog Pose, Standing Straddle Stretch, Forward Fold, Wall Calf Stretch', '', ''],
 ]">
 </content-table>
 
-Follows [this](https://www.youtube.com/watch?v=x-1OJW3OMb4&t=675s&ab_channel=TomMerrick) video
 
 #### Climbing-focused exercises
 
+Equipment used: Beastmaker 2000 + YY Penta + A plank
+
 4 cycles
-focus is on proper and controlled techniques
+focus is on proper and controlled techniques - The goal here is not to focus on pushing myself to technical failure, hence the standardised and 'strict' regime
 
 <content-table :headers="['Exercise', 'Muscle Groups', 'Repitition | Time', 'Additional Comments']" :rows="[
-    ['Pullup', '', '12 reps', ''],
-    ['Lying Kneetuck', '', '20 reps', ''],
-    ['Sideplank', '', '45 seconds per side', ''],
-    ['Hangboard', '', '', 'Holds used: 0 degree sloper, 4 finger crimp (20mm), 20 degree sloper, elbow-locked 4 finger crimp (20mm)'],
-    ['Flutterkicks', '', '50 reps', ''],
-    ['Hanging Kneetuck', '', '12 reps', ''],
+    ['Pullup', '', '12 Reps', ''],
+    ['Lying Kneetuck', '', '20 Reps', ''],
+    ['Sideplank', '', '45 Seconds per Side', ''],
+    ['Hangboard', '', '10s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
+    ['Flutterkicks', '', '50 Reps', ''],
+    ['Hanging Kneetuck', '', '12 Reps', ''],
 ]">
 </content-table>
 
