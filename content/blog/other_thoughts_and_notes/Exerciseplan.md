@@ -114,15 +114,14 @@ A combination of yoga and stretching exercises
 </content-table>
 
 
-#### Climbing-focused exercises
+#### Climbing-focused Exercises
+My Climbing-focused is split into `Interval Core- and Finger-exercises`, where I on strength and conditioning, and `Bouldering Sessions`, where I work through a structured programme to improve my general climbing skills. 
 
 
-##### Interval core- and finger-exercises
+##### Interval Core- and Finger-exercises
+For my Core and Finger-exercises, I incorporate interval training with 4 cycles, where I focus on maintaining proper and controlled techniques throughout. In these exercises the aim is not push myself to technical failure, but instead to adhere to a standardised and strict regime. This method ensures consistency in form and promotes steady progress while minimising the risk of injury. The latter part is particularly important, as utilising finger-training equipment like hangboards are known to increase the risk of injury if not performed with proper technique and control.
 
-Equipment used: Beastmaker 2000 + YY Penta + A plank
-
-4 cycles
-focus is on proper and controlled techniques - The goal here is not to focus on pushing myself to technical failure, hence the standardised and 'strict' regime
+The equipment I use is primarily the hangboard [Beastmaker 2000](https://www.beastmaker.co.uk/products/beastmaker-2000-series) and the 'gymnastic rings' [Penta from YY Vertical](https://www.yyvertical.com/en/products/penta).
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Repitition | Time', 'Additional Comments']" :rows="[
     ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '12 Reps', ''],
