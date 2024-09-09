@@ -8,61 +8,82 @@ In designing my exercise plan, I aim to cover most aspects of what you would con
 
 Considering the intensity of the sessions of each exercise-area, I view my overall exercise-methodology to be flexible and non-dogmatic. The exercise-plan is never fully set in stone, and is adjustable to account for injuries and changes in general health, shifts in schedule, and other factors. Although the weekly exercise-schedule is initially planned at the start of each week or the end of the previous week, it may be modified when needed. This approach ensures my own discipline towards the plan, as well as the plan's effectivity. 
 
+Throughout each week, I make sure to meticulously note down the details of each session, including the specific weights, sets and repetitions performed. I utilise these notes to ensure [progressive overload](https://en.wikipedia.org/wiki/Progressive_overload) by reviewing my notes in advance of each session. This allows me to easily swap out insufficient exercises and systematically increase the intensity of my workouts by making incremental adjustments based on my notes, ensuring that I am consistently pushing my limits and promoting continuous improvements.
+
 With these ideas in mind, I will now explore the specifics of my routine. In the following sections, I will provide a detailed breakdown of each key area, highlighting how they contribute to my overall fitness goals, as well as provide thorough insights into the structure of my weekly plan. For a deeper dive into my motivation, methodology and the principles guiding my exercise strategy, feel free to reed about [my exercise philosophy](https://haavard.netlify.app/content/blog/other_thoughts_and_notes/workoutphilosophy).
 
 The following table outlines my weekly exercise schedule before any potential adjustment:
 <content-table :headers="['Day', 'Key area', 'Focus area', 'Additional Comments']" :rows="[
     ['Monday', 'Rest', '', ''],
     ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Interval core- and finger-excersies', ''],
-    ['Wednesday', 'Gym + Mobility', 'Back + Mobility', ''],
+    ['Wednesday', 'Gym + Mobility', 'Back and Biceps + Mobility', ''],
     ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Interval core- and finger-excersies', ''],
-    ['Friday', 'Gym + Mobility', 'Chest and Shoulders + Mobility', ''],
+    ['Friday', 'Gym + Mobility', 'Chest, Shoulders and Triceps + Mobility', ''],
     ['Saturday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Bouldering-session', ''],
     ['Sunday', 'Gym + Mobility', 'Legs + Mobility', ''],
 ]">
 </content-table>
 
-I also ensure that i continiously increase to progressively overload, and keeps notes on how much i do on each exercise, for may sets and reps. Primarely related to Gym and Climbing-focused exercises
 
 
 #### Gym
+I structure my gym sessions into three primary groups: `Chest, Shoulders and Triceps`, `Back and Biceps` and ` Legs`. This approach allows me to focus intensively on specific muscle groups while providing ample recovery time before targeting the same areas again. By concentrating on different muscle groups each session, I can easily ensure that each group receives the attention needed, as well as a balanced workout each week. 
 
-3-4 sets on everything (3 if im feeling bad and am tired, 4 else)
-8-12 reps usually, where if im at 12 x 3-4 sets then increase weight till i can do at min. 6-8 reps x 3-4. 6 Reps are only accepted at certian exercises (such as pulldown and belt squats)
+These session are the cornerstones of my exercise-plan. I avoid dropping a gym-session at almost any cost and refuse to have a relatively 'weak performance' in these sessions given my body 'allows' it, and will instead adjust every other session around them. For instance, as of 09.09.2024, I am dealing with knots in each calves, limiting the intensity and methods used to train them. To manage this, I will opt for eve-lower-intensity cardio session and mobility-sessions with a larger focus on calves, ensuring that I can push myself more effectively in my gym-sessions. This approach allows me to maintain the integrity of my gym-sessions while adapting to any temporary challenges, ensuring consistent progress and performance across my exercise-plan,
 
-Also focuses on building up the weights. So if I want to take 90kg pulldowns, i start iwht 10kg, then 40kg, then 60kg, then 90kg, one set each up until 90kg. The more weight i want to take, the more stages up till that  point. I do this to ensure good technique and that nothing hurts
+For each session, I am to perform 3-4 sets per exercise, opting for 3 sets if I am feeling more fatigued and 4 sets otherwise. I typically work within the 8-12 repetition range, and if I find myself reaching 12 reps for 3-4 sets, I will increase the weight until I can perform a minimum of 6-8 repetition for the same number of sets. Specifically, six repetition are mostly reserved for specific 'compound' exercises such as pulldowns and belt squats, where this range is more suitable to maximise strength and muscle engagement.
 
-chest + shoulders + triceps
-<content-table :headers="['Exercise', 'Muscle Groups', 'Sets and Repitions', 'Additional Comments']" :rows="[
-    ['Iso-lateral Benchpress', '', '3-4 Sets of 8-12 Reps', ''],
-    ['Iso-lateral Dumbbell Shoulderpress', '', '3-4 Sets of 8-12 Reps', ''],
-    ['Uni-lateral Triceps Extension (Cable)', '', '3-4 Sets of 8-12 Reps', ''],
-    ['Uni-lateral Leaning Lateral Raise (Cable)', '', '3-4 Sets of 8-12 Reps', ''],
-    ['Iso-lateral Incline Dumbbell Benchpress', '', '3-4 Sets of 8-12 Reps', ''],
-    ['Iso-lateral Incline Flies', '', '3-4 Sets of 8-12 Reps', ''],
+I also emphasise a progressive approach to warming up and increasing weights before hitting the target weight for each exercise during each session. For example, if I plan to do 90kg pulldowns, I start with lighter weights - 10kg, then 40kg, followed by 60kg - before finally reaching 90kg. I perform one set at each weight increment, gradually building up to the target weight for that session. During these warm-up sets, I typically work within a repetition range of 6-12. This approach ensures a proper technique and gradually prepares the muscles and joints for heavier loads, reducing the risk of injury. 
+
+Something on dropsets, and how i frequently use them as the 1-2 last sets for specific exerccises
+
+The following sub-chapters provide a detailed description of each primary group:
+( * refers to it being a 'secondary' muscle group utilised in the exercise, and DS = Prone to using drop-sets in the exercise)
+(There may be faults in the 'Primary Muscle Groups' categorisation)
+
+##### Chest, Shoulders and Triceps
+
+
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and ti', 'Additional Comments']" :rows="[
+    ['Iso-lateral Benchpress', 'Pectoralis(Major(Stern.)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Dumbbell Shoulderpress', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Uni-lateral Triceps Extension (Cable)', 'Triceps, Deltoid (Post)*', '3-4 Sets of 8-12 Reps', 'DS.'],
+    ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Iso-lateral Incline Dumbbell Benchpress', 'Pectoralis(Major(Clav. + Stern.*)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Iso-lateral Incline Flies', 'Pectoralis(Major(Clav + Stern.)), Deltoids (Ant.), Triceps*', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
-back + biceps
-<content-table :headers="['Exercise', 'Muscle Groups', 'Sets and Repitions', 'Additional Comments']" :rows="[
-    ['Pullup', '', '3-4 Sets of 12 Reps', 'Serves as a harder warm-up'],
-    ['Uni-lateral External Rotation (Cable)', '', '3-4 Sets of 12-15 Reps', 'Low weights '],
-    ['Uni-lateral Lever Underhand Pulldown', '', '3-4 Sets of 6-12 Reps', ''],
-    ['Uni-lateral Internal Rotation (Cable)', '', '3-4 Sets of 12-15 Reps', ''],
-    ['Iso-lateral Row', '', '3-4 Sets of 8-12 Reps', ''],
-    ['Uni-lateral Forward-leaning Bicep Curl (Cable)', '', '3-4 Sets of 8-12 Reps', ''],
+Other exercises previously used within this group includes: Dips (Neutral and Weighted), Decline Benchpress, and Dumbbell/Barbell varieties of the exercises above. 
+
+##### Back and Biceps
+
+
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
+    ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '3-4 Sets of 12 Reps', 'Serves as a harder warm-up'],
+    ['Uni-lateral External Rotation (Cable)', 'Rotator Cuffs(Infra + Teres Minor), Deltoids(Post.)*', '3-4 Sets of 12-15 Reps', 'Low weights to ensure control and proper activation of stabalising muscles'],
+    ['Uni-lateral Lever Underhand Pulldown', 'Lats, Rhom, Traps, Biceps, Deltoids(Post)*', '3-4 Sets of 6-12 Reps', 'DS. '],
+    ['Uni-lateral Internal Rotation (Cable)', 'Rotator Cuffs(Subscap. + Teres Major), Deltoid(Ant.)', '3-4 Sets of 12-15 Reps', 'Low weights to ensure control and proper activation of stabalising muscles'],
+    ['Barbell Deadlifts', 'Erector Spinae, Glutes, Hamstrings, Lats, Traps, Forearms', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Row', 'Lats, Rhom, Traps, Biceps, Deltoids (Post)', '3-4 Sets of 8-12 Reps', 'DS.'],
+    ['Uni-lateral Forward-leaning Bicep Curl (Cable)', 'Biceps, Brachialis', '3-4 Sets of 8-12 Reps', 'DS.'],
 ]">
 </content-table>
 
+Other exercises previously used within this group includes: Weighted Pullups, Lever Rows, Barbell Rows, Cable Rows, Cable Pulldown, and other varieties.
+
+Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-back problems. 
 
 
-legs
-<content-table :headers="['Exercise', 'Muscle Groups', 'Sets and Repitions', 'Additional Comments']" :rows="[
-    ['Belt Squats', '', '4 Sets of 6-12 Reps', ''],
-    ['Uni-lateral Standing Leg Curls', '', '4 Sets for 8-12 Reps', ''],
-    ['Calf raise', '', '4 Sets of 10-15 Reps', ''],
-    ['Quad-focused Hacksquat', '', '3-4 Sets for 8-12 Reps', ''],
-    ['Plate-loaded Hipthurst', '', '3-4 Sets of 8-12 Reps', ''],
+##### Legs
+
+
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and ti', 'Additional Comments']" :rows="[
+    ['Belt Squats', 'Glutes, Quads, Hamstrings*, Adductors*, Erector Spinae*', '4 Sets of 6-12 Reps', ''],
+    ['Uni-lateral Standing Leg Curls', 'Hamstrings, Glutes*', '4 Sets for 8-12 Reps', 'DS. '],
+    ['Calf raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
+    ['Quad-focused Hacksquat', 'Quads, Glutes*, Hamstrings*', '3-4 Sets for 8-12 Reps', 'DS. '],
+    ['Plate-loaded Hipthurst', 'Glutes, Hamstrings, Erector Spinae', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
@@ -83,7 +104,7 @@ legs
 
 A combination of yoga and stretching exercises
 
-<content-table :headers="['Muscle Groups', 'Stretches and Poses', 'Stretches using a Foam-roller', 'Additional Comments']" :rows="[
+<content-table :headers="['Primary Muscle Groups', 'Stretches and Poses', 'Stretches using a Foam-roller', 'Additional Comments']" :rows="[
     ['Wrists and Forearms', 'Wrist Rotation, Wrist Movement, Wrist Walks', '', ''],
     ['Chest, Shoulders and Back', 'Lateral Stretch, Seated Shoulder Extension, Thread The Needle, Downward-Facing Dog, Child`s pose, Cat/Cow', '', ''],
     ['Abs, Legs and Hips', 'Cobra Pose (+ Cat/Cow from before), Deep Runner Lunge (+ World`s Greatest Stretch), 90/90, Seated Butterfly Pose, Garland pose, Frog Pose, Single-Leg Frog Pose, Standing Straddle Stretch, Forward Fold, Wall Calf Stretch', '', ''],
@@ -98,13 +119,13 @@ Equipment used: Beastmaker 2000 + YY Penta + A plank
 4 cycles
 focus is on proper and controlled techniques - The goal here is not to focus on pushing myself to technical failure, hence the standardised and 'strict' regime
 
-<content-table :headers="['Exercise', 'Muscle Groups', 'Repitition | Time', 'Additional Comments']" :rows="[
-    ['Pullup', '', '12 Reps', ''],
-    ['Lying Kneetuck', '', '20 Reps', ''],
-    ['Sideplank', '', '45 Seconds per Side', ''],
-    ['Hangboard', '', '10s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
-    ['Flutterkicks', '', '50 Reps', ''],
-    ['Hanging Kneetuck', '', '12 Reps', ''],
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Repitition | Time', 'Additional Comments']" :rows="[
+    ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '12 Reps', ''],
+    ['Lying Kneetuck', 'Abs (Rectus Abdominis), Hip Flexors', '20 Reps', ''],
+    ['Sideplank', 'Obliques, Transverse Abd., Rectus Abd.*, Glutes*', '45 Seconds per Side', ''],
+    ['Hangboard', 'Forearms(Flexors and Extensors), Finger Flexors', '10s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
+    ['Flutterkicks', 'Abs (Rectus Abd.), Hip Flexors', '50 Reps', ''],
+    ['Hanging Kneetuck', 'Abs (Rectus Abd.), Hip Flexors, Forearms(Flexors and Extensors)*', '12 Reps', ''],
 ]">
 </content-table>
 
