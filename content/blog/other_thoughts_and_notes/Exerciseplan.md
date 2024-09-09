@@ -45,12 +45,12 @@ The following sub-chapters provide a detailed description of each primary group:
 
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and ti', 'Additional Comments']" :rows="[
-    ['Iso-lateral Bench Press', 'Pectoralis(Major(Stern.)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Bench Press', 'Pectoralis(Major(Mid)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
     ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
-    ['Uni-lateral Triceps Extension (Cable)', 'Triceps, Deltoid (Post)*', '3-4 Sets of 8-12 Reps', 'DS.'],
+    ['Uni-lateral Cable Tricep Kickback', 'Triceps, Deltoid (Post)*', '3-4 Sets of 8-12 Reps', 'DS.'],
     ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', 'DS. '],
-    ['Iso-lateral Incline Dumbbell Bench Press', 'Pectoralis(Major(Clav. + Stern.*)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
-    ['Iso-lateral Incline Flies', 'Pectoralis(Major(Clav + Stern.)), Deltoids (Ant.), Triceps*', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Incline Dumbbell Bench Press', 'Pectoralis(Major(Upper + Mid*)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Iso-lateral Incline Flies', 'Pectoralis(Major(Upper + Mid)), Deltoids (Ant.), Triceps*', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
