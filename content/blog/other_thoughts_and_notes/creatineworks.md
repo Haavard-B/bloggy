@@ -1,7 +1,7 @@
 ---
 title: Creatine works but...
 description: Exercise log and notes
-date: 31.08.2024
+date: 2024.08.31
 ---
 
 Here are some resources for those sceptical and for those saying "Det er ingen forskning som viser at det fungerer. Null." (You know who you are).
