@@ -15,9 +15,9 @@ With these ideas in mind, I will now explore the specifics of my routine. In the
 The following table outlines my weekly exercise schedule before any potential adjustment:
 <content-table :headers="['Day', 'Key area', 'Focus area', 'Additional Comments']" :rows="[
     ['Monday', 'Rest', '', ''],
-    ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Interval core- and finger-excersies', ''],
+    ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Interval core- and finger-exercises', ''],
     ['Wednesday', 'Gym + Mobility', 'Back and Biceps + Mobility', ''],
-    ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Interval core- and finger-excersies', ''],
+    ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Interval core- and finger-exercises', ''],
     ['Friday', 'Gym + Mobility', 'Chest, Shoulders and Triceps + Mobility', ''],
     ['Saturday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Bouldering-session', ''],
     ['Sunday', 'Gym + Mobility', 'Legs + Mobility', ''],
@@ -35,26 +35,26 @@ For each session, I am to perform 3-4 sets per exercise, opting for 3 sets if I 
 
 I also emphasise a progressive approach to warming up and increasing weights before hitting the target weight for each exercise during each session. For example, if I plan to do 90kg pulldowns, I start with lighter weights - 10kg, then 40kg, followed by 60kg - before finally reaching 90kg. I perform one set at each weight increment, gradually building up to the target weight for that session. During these warm-up sets, I typically work within a repetition range of 6-12. This approach ensures a proper technique and gradually prepares the muscles and joints for heavier loads, reducing the risk of injury. 
 
-Something on dropsets, and how i frequently use them as the 1-2 last sets for specific exerccises
+[Drop sets](https://en.wikipedia.org/wiki/Drop_set) are also frequently incorporated into my training regimen, particularly as the final 1-2 sets for specific exercises. After pushing an exercise to failure, or in some cases past it by performing several half-repetitions, I reduce the weight and continue the set, which allows me to push through the last bit of exhaustion. This technique not only intensifies the workout but also helps me feel like I have maximised my efforts and thoroughly fatigued my muscles.
 
 The following sub-chapters provide a detailed description of each primary group:
-( * refers to it being a 'secondary' muscle group utilised in the exercise, and DS = Prone to using drop-sets in the exercise)
+( * refers to it being a 'secondary' muscle group utilised in the exercise, and DS = Inclined to using drop-sets in the exercise)
 (There may be faults in the 'Primary Muscle Groups' categorisation)
 
 ##### Chest, Shoulders and Triceps
 
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and ti', 'Additional Comments']" :rows="[
-    ['Iso-lateral Benchpress', 'Pectoralis(Major(Stern.)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
-    ['Iso-lateral Dumbbell Shoulderpress', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Iso-lateral Bench Press', 'Pectoralis(Major(Stern.)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
     ['Uni-lateral Triceps Extension (Cable)', 'Triceps, Deltoid (Post)*', '3-4 Sets of 8-12 Reps', 'DS.'],
     ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', 'DS. '],
-    ['Iso-lateral Incline Dumbbell Benchpress', 'Pectoralis(Major(Clav. + Stern.*)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Iso-lateral Incline Dumbbell Bench Press', 'Pectoralis(Major(Clav. + Stern.*)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
     ['Iso-lateral Incline Flies', 'Pectoralis(Major(Clav + Stern.)), Deltoids (Ant.), Triceps*', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
-Other exercises previously used within this group includes: Dips (Neutral and Weighted), Decline Benchpress, and Dumbbell/Barbell varieties of the exercises above. 
+Other exercises previously used within this group includes: Dips (Neutral and Weighted), Decline Bench Press, and Dumbbell/Barbell varieties of the exercises above. 
 
 ##### Back and Biceps
 
@@ -70,9 +70,9 @@ Other exercises previously used within this group includes: Dips (Neutral and We
 ]">
 </content-table>
 
-Other exercises previously used within this group includes: Weighted Pullups, Lever Rows, Barbell Rows, Cable Rows, Cable Pulldown, and other varieties.
+Other exercises previously used within this group includes: Weighted Pullups, Lever Rows, Barbell Rows, Cable Rows, Cable Pulldown, and other varieties of the exercises above.
 
-Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-back problems. 
+Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-back 'problems'. 
 
 
 ##### Legs
@@ -81,21 +81,23 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and ti', 'Additional Comments']" :rows="[
     ['Belt Squats', 'Glutes, Quads, Hamstrings*, Adductors*, Erector Spinae*', '4 Sets of 6-12 Reps', ''],
     ['Uni-lateral Standing Leg Curls', 'Hamstrings, Glutes*', '4 Sets for 8-12 Reps', 'DS. '],
-    ['Calf raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
+    ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
     ['Quad-focused Hacksquat', 'Quads, Glutes*, Hamstrings*', '3-4 Sets for 8-12 Reps', 'DS. '],
-    ['Plate-loaded Hipthurst', 'Glutes, Hamstrings, Erector Spinae', '3-4 Sets of 8-12 Reps', ''],
+    ['Plate-loaded Hipthrust', 'Glutes, Hamstrings, Erector Spinae', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
-
+Other exercises previously used within this group includes: Leg Extensions (Led to mild knee pain), Laying Hamstring Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Romanian Split Squats (Led to mild knee pain), Barbell Hip-thrust (Crushed my pinkie under the plates), Plate-loaded Leg Press (Just too intense), and other varieties of the exercises above.
 
 #### Cardio
 
 
-<content-table :headers="['Exercise', '', '', 'Additional Comments']" :rows="[
-    ['Low-intensity cardio', '', '', ''],
-    ['Medium-intensity cardio', '', '', ''],
-    ['High-intensity cardio', '', '', 'Due to persisting knots in my calfs, this is not included in the plan'],
+Terrain-wise: As long as its not super steep up/down, anything goes
+
+<content-table :headers="['Exercise', 'Details', 'Additional Comments']" :rows="[
+    ['Low-intensity cardio', '3-5km at a pace of 6-8 minutes per km depending on the distance', ''],
+    ['Medium-intensity cardio', '3-8km at pace of 5-7 minutes per km depending on the distance', ''],
+    ['High-intensity cardio', '3-5km at a pace of < 5 minutes per km depending on the distance', 'Due to persisting knots in my calfs, this is not included in the plan'],
 ]">
 </content-table>
 
@@ -114,6 +116,9 @@ A combination of yoga and stretching exercises
 
 #### Climbing-focused exercises
 
+
+##### Interval core- and finger-exercises
+
 Equipment used: Beastmaker 2000 + YY Penta + A plank
 
 4 cycles
@@ -128,6 +133,31 @@ focus is on proper and controlled techniques - The goal here is not to focus on 
     ['Hanging Kneetuck', 'Abs (Rectus Abd.), Hip Flexors, Forearms(Flexors and Extensors)*', '12 Reps', ''],
 ]">
 </content-table>
+
+
+
+##### Bouldering Sessions
+
+
+When I write low-, middle- and high-grade problems, I refer to my own personal performance. 3 to 6A is what I consider relatively easy for myself, whereas 6B+ to 7A is quite difficult.
+
+<content-table :headers="['Training Phases', 'Description', 'Time', 'Additional Comments']" :rows="[
+    ['Stretching', 'A lighter version of my Mobility Sessions', '10-15 Minutes', ''],
+    ['Warm-up', 'Low-grade problems (3 to 6A) - Specifically focus on warming up legs and shoulders', '10-20 Minutes', ''],
+    ['Technique-focused Climbing', 'Commonly middle-grade problems (5+ to 6B) with larger focus on `Silent Movements` and generally good technique', 'Minimum 30 Minutes', ''],
+    ['Grade-Chasing', 'High-grade problems (6B+ to 7A) where I focus on pushing my strength and technique', '30-45 Minutes', ''],
+    ['Cool-down', 'A gradual decrese from Middle- to Low-grade problems (6B to 5)', '10-15 Minutes', ''],
+    ['Stretching', 'A lighter version of my Mobility Sessions', '10-15 Minutes', ''],
+]">
+</content-table>
+
+
+
+#### Other things to be included in the future
+
+Unfortunately, I do not have more time available to spend on exercise without it affecting time spent on other hobbies, personal projects, friends and family. 
+
+Balance
 
 
 
