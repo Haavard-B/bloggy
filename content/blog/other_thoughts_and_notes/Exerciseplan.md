@@ -87,7 +87,9 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 ]">
 </content-table>
 
-Other exercises previously used within this group includes: Leg Extensions (Led to mild knee pain), Laying Hamstring Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Romanian Split Squats (Led to mild knee pain), Barbell Hip-thrust (Crushed my pinkie under the plates), Plate-loaded Leg Press (Just too intense), and other varieties of the exercises above.
+Other exercises previously used within this group includes: Leg Extensions, Laying Hamstring Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Bulgarian Split Squats (Led to mild knee pain), Barbell Hip-thrust (Crushed my pinkie under the plates), Plate-loaded Leg Press (Just too intense), and other varieties of the exercises above.
+
+In the future, when my back is fully functional again, I will experiment with lever/pendulum squats for better quad activation.
 
 #### Cardio
 
