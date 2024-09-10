@@ -29,7 +29,7 @@ The following table outlines my weekly exercise schedule before any potential ad
 #### Gym
 I structure my gym sessions into three primary groups: `Chest, Shoulders and Triceps`, `Back and Biceps` and ` Legs`. This approach allows me to focus intensively on specific muscle groups while providing ample recovery time before targeting the same areas again. By concentrating on different muscle groups each session, I can easily ensure that each group receives the attention needed, as well as a balanced workout each week. 
 
-These session are the cornerstones of my exercise-plan. I avoid dropping a gym-session at almost any cost and refuse to have a relatively 'weak performance' in these sessions given my body 'allows' it, and will instead adjust every other session around them. For instance, as of 09.09.2024, I am dealing with knots in each calves, limiting the intensity and methods used to train them. To manage this, I will opt for eve-lower-intensity cardio session and mobility-sessions with a larger focus on calves, ensuring that I can push myself more effectively in my gym-sessions. This approach allows me to maintain the integrity of my gym-sessions while adapting to any temporary challenges, ensuring consistent progress and performance across my exercise-plan,
+These session are the cornerstones of my exercise-plan. I avoid dropping a gym-session at almost any cost and refuse to have a relatively 'weak performance' in these sessions given my body 'allows' it, and will instead adjust every other session around them. For instance, as of 09.09.2024, I am dealing with knots in each calves, limiting the intensity and methods used to train them. To manage this, I will opt for even-lower-intensity cardio session and mobility-sessions with a larger focus on calves, ensuring that I can push myself more effectively in my gym-sessions. This approach allows me to maintain the integrity of my gym-sessions while adapting to any temporary challenges, ensuring consistent progress and performance across my exercise-plan,
 
 For each session, I am to perform 3-4 sets per exercise, opting for 3 sets if I am feeling more fatigued and 4 sets otherwise. I typically work within the 8-12 repetition range, and if I find myself reaching 12 reps for 3-4 sets, I will increase the weight until I can perform a minimum of 6-8 repetition for the same number of sets. Specifically, six repetition are mostly reserved for specific 'compound' exercises such as pulldowns and belt squats, where this range is more suitable to maximise strength and muscle engagement.
 
@@ -99,7 +99,7 @@ Terrain-wise: As long as its not super steep up/down, anything goes
 <content-table :headers="['Exercise', 'Details', 'Additional Comments']" :rows="[
     ['Low-intensity cardio', '3-5km at a pace of 6-8 minutes per km depending on the distance', ''],
     ['Medium-intensity cardio', '3-8km at pace of 5-7 minutes per km depending on the distance', ''],
-    ['High-intensity cardio', '3-5km at a pace of < 5 minutes per km depending on the distance', 'Due to persisting knots in my calfs, this is not included in the plan'],
+    ['High-intensity cardio', '3-5km at a pace of < 5 minutes per km depending on the distance', 'Due to persisting knots in my calves, this is not included in the plan'],
 ]">
 </content-table>
 
@@ -117,11 +117,11 @@ A combination of yoga and stretching exercises
 
 
 #### Climbing-focused Exercises
-My Climbing-focused is split into `Interval Core- and Finger-exercises`, where I on strength and conditioning, and `Bouldering Sessions`, where I work through a structured programme to improve my general climbing skills. 
+My Climbing-focused exercises are split into `Interval Core- and Finger-exercises`, where I focus on strength and conditioning, and `Bouldering Sessions`, where I work through a structured programme to improve my general climbing skills. 
 
 
 ##### Interval Core- and Finger-exercises
-For my Core and Finger-exercises, I incorporate interval training with 4 cycles, where I focus on maintaining proper and controlled techniques throughout. In these exercises the aim is not push myself to technical failure, but instead to adhere to a standardised and strict regime. This method ensures consistency in form and promotes steady progress while minimising the risk of injury. The latter part is particularly important, as utilising finger-training equipment like hangboards are known to increase the risk of injury if not performed with proper technique and control.
+For my Core and Finger-exercises, I incorporate interval training with 4 cycles, where I focus on maintaining proper and controlled techniques throughout. In these exercises the aim is not push myself to technical failure, but instead to adhere to a standardised and strict regimen. This method ensures consistency in form and promotes steady progress while minimising the risk of injury. The latter part is particularly important, as utilising finger-training equipment like hangboards are known to increase the risk of injury if not performed with proper technique and control.
 
 The equipment I use is primarily the hangboard [Beastmaker 2000](https://www.beastmaker.co.uk/products/beastmaker-2000-series) and the 'gymnastic rings' [Penta from YY Vertical](https://www.yyvertical.com/en/products/penta).
 
@@ -145,7 +145,7 @@ When I write low-, middle- and high-grade problems, I refer to my own personal p
 <content-table :headers="['Training Phases', 'Description', 'Time', 'Additional Comments']" :rows="[
     ['Stretching', 'A lighter version of my Mobility Sessions', '10-15 Minutes', ''],
     ['Warm-up', 'Low-grade problems (3 to 6A) - Specifically focus on warming up legs and shoulders', '10-20 Minutes', ''],
-    ['Technique-focused Climbing', 'Commonly middle-grade problems (5+ to 6B) with larger focus on `Silent Movements` and generally good technique', 'Minimum 30 Minutes', ''],
+    ['Technique-focused Climbing', 'Commonly middle-grade problems (5+ to 6B), particularly technique-heavy problems, with larger focus on `Silent Movements` and generally good technique', 'Minimum 30 Minutes', ''],
     ['Grade-Chasing', 'High-grade problems (6B+ to 7A) where I focus on pushing my strength and technique', '30-45 Minutes', ''],
     ['Cool-down', 'A gradual decrese from Middle- to Low-grade problems (6B to 5)', '10-15 Minutes', ''],
     ['Stretching', 'A lighter version of my Mobility Sessions', '10-15 Minutes', ''],
