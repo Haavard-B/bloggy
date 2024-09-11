@@ -158,7 +158,9 @@ When I write low-, middle- and high-grade problems, I refer to my own personal p
 
 Unfortunately, I do not have more time available to spend on exercise without it affecting time spent on other hobbies, personal projects, friends and family. 
 
-Balance
+A Balance-focused session - Potentially to be included with the mobility-sessions.
+
+The core section of the `Interval Core- and Finger-exercises` will be revised, as it currently is quite sub-optimal.
 
 
 
