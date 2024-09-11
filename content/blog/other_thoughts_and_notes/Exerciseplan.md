@@ -162,5 +162,7 @@ A Balance-focused session - Potentially to be included with the mobility-session
 
 The core section of the `Interval Core- and Finger-exercises` will be revised, as it currently is quite sub-optimal.
 
+Moving away from having rest-day on mondays to having a rest day mid-week instead - just an idea though
+
 
 
