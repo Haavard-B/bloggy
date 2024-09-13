@@ -44,7 +44,7 @@ The following sub-chapters provide a detailed description of each primary group:
 ##### Chest, Shoulders and Triceps
 
 
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and ti', 'Additional Comments']" :rows="[
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
     ['Iso-lateral Bench Press', 'Pectoralis(Major(Mid)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
     ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
     ['Uni-lateral Cable Tricep Kickback', 'Triceps, Deltoid (Post)*', '3-4 Sets of 8-12 Reps', 'DS.'],
@@ -54,7 +54,7 @@ The following sub-chapters provide a detailed description of each primary group:
 ]">
 </content-table>
 
-Other exercises previously used within this group includes: Dips (Neutral and Weighted), Decline Bench Press, and Dumbbell/Barbell varieties of the exercises above. 
+Other exercises previously used within this group includes: Dips (Bodyweight and Weighted), Decline Bench Press, and Dumbbell/Barbell varieties of the exercises above. 
 
 ##### Back and Biceps
 
@@ -78,7 +78,7 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 ##### Legs
 
 
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and ti', 'Additional Comments']" :rows="[
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
     ['Belt Squats', 'Glutes, Quads, Hamstrings*, Adductors*, Erector Spinae*', '4 Sets of 6-12 Reps', ''],
     ['Uni-lateral Standing Leg Curls', 'Hamstrings, Glutes*', '4 Sets for 8-12 Reps', 'DS. '],
     ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
@@ -92,9 +92,7 @@ Other exercises previously used within this group includes: Leg Extensions, Layi
 In the future, when my back is fully functional again, I will experiment with lever/pendulum squats for better quad activation.
 
 #### Cardio
-
-
-Terrain-wise: As long as its not super steep up/down, anything goes
+I organise my cardio-sessions into three intensity levels: `Low-Intensity`, `Medium-Intensity` and `High-Intensity`. This structure allows me to vary the pace and distance depending on my recovery. In terms of terrain, I remain flexible - Anything goes as long as its not overly steep, though I prefer gravel roads when easily accessible. Before and after each run, regardless of intensity level, I also always incorporate a short mobility session. This routine helps prepare the body for the session ahead, and aids in recovery, easing muscle tension and promotes flexibility afterwards.
 
 <content-table :headers="['Exercise', 'Details', 'Additional Comments']" :rows="[
     ['Low-intensity cardio', '3-5km at a pace of 6-8 minutes per km depending on the distance', ''],
@@ -105,8 +103,9 @@ Terrain-wise: As long as its not super steep up/down, anything goes
 
 
 #### Mobility
+I incorporate a combination of yoga and stretching exercises into my regular mobility sessions. This practice focuses on improving flexibility and easing muscle tension, targeting key areas like the wrists, forearms, chest, shoulders, back, abs, legs, and hips. By consistently performing these exercises, I aim to maintain overall body flexibility, and support short- and long-term recovery. These sessions are integral to my routine, ensuring that I remain agile and reduce stiffness, which in turn helps me perform better in various physical activities and recover more efficiently from them.
 
-A combination of yoga and stretching exercises
+I regularly adjust the entire mobility program based on my specific needs. For instance, if I experience significant stiffness in my forearms and wrists, I might shift the focus of the program to address these areas more intensively for a period. Such changes are temporary, but they ensure that I effectively manage and alleviate any discomfort. Despite these adjustments, the overall integrity of the mobility program remains intact. The core structure and balance of the sessions are preserved, ensuring that all key muscle groups continue to be addressed regularly.
 
 <content-table :headers="['Primary Muscle Groups', 'Stretches and Poses', 'Stretches using a Foam-roller', 'Additional Comments']" :rows="[
     ['Wrists and Forearms', 'Wrist Rotation, Wrist Movement, Wrist Walks', '', ''],
@@ -116,8 +115,10 @@ A combination of yoga and stretching exercises
 </content-table>
 
 
-#### Climbing-focused Exercises
-My Climbing-focused exercises are split into `Interval Core- and Finger-exercises`, where I focus on strength and conditioning, and `Bouldering Sessions`, where I work through a structured programme to improve my general climbing skills. 
+#### Climbing-focused Sessions
+My Climbing-focused sessions are split into `Interval Core- and Finger-exercises`, where I focus on strength and conditioning, and `Bouldering Sessions`, where I work through a structured programme to improve my general climbing skills. Unlike my other sessions, both of these sessions have a specific purpose: they are designed to enhance my climbing performance, helping me tackle higher grades and refine my technique. By concentrating on targeted strength and skill development, these sessions directly contribute to my progress as a climber. While I do not have a set long-term goal of, for example, climbing an 8a within a 5 year time-span, I do have short-term goals of being able to climb the next higher grade from what I am currently climbing. As of September 2024, the current goal is to climb a 7a before the end of 2024.
+
+
 
 
 ##### Interval Core- and Finger-exercises
@@ -127,20 +128,21 @@ The equipment I use is primarily the hangboard [Beastmaker 2000](https://www.bea
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Repitition | Time', 'Additional Comments']" :rows="[
     ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '12 Reps', ''],
-    ['Lying Kneetuck', 'Abs (Rectus Abdominis), Hip Flexors', '20 Reps', ''],
-    ['Sideplank', 'Obliques, Transverse Abd., Rectus Abd.*, Glutes*', '45 Seconds per Side', ''],
-    ['Hangboard', 'Forearms(Flexors and Extensors), Finger Flexors', '10s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
+    ['Lying Kneetuck', 'Abs (Rectus Abd.), Hip Flexors', '20 Reps', ''],
+    ['Sideplank', 'Obliques (Int. and Ext.), Abs (Transverse Abd. and Rectus Abd.*), Glutes*', '45 Seconds per Side', ''],
+    ['Hangboard', 'Forearms (Flexors and Extensors), Finger Flexors', '10s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
     ['Flutterkicks', 'Abs (Rectus Abd.), Hip Flexors', '50 Reps', ''],
     ['Hanging Kneetuck', 'Abs (Rectus Abd.), Hip Flexors, Forearms(Flexors and Extensors)*', '12 Reps', ''],
 ]">
 </content-table>
 
+These sessions are frequently updated based on my progress and evolving needs. As I improve and certain exercises become less effective at providing muscle stimulus, I make adjustments to ensure continued growth and avoid plateaus. Additionally, if I identify weak spots, either in my own performance or within the exercises themselves, I modify the routine accordingly. For instance, I plan to alter the session soon to better target specific abdominal muscles, such as the obliques, ensuring a more comprehensive workout and addressing any imbalances.
 
 
 ##### Bouldering Sessions
+My bouldering sessions are structured to progressively enhance my climbing performance through these varying levels of difficulty. I frequently adjust the focus and difficulty of the problems I work on based on my current performance and specific needs. For instance, if I find that certain grades no longer provide sufficient challenge or if I need to target specific techniques, I modify the session accordingly. This ensures that my training remains effective and aligned with my climbing goals, continually pushing my limits while addressing any areas that need improvement.
 
-
-When I write low-, middle- and high-grade problems, I refer to my own personal performance. 3 to 6A is what I consider relatively easy for myself, whereas 6B+ to 7A is quite difficult.
+When I refer to low-, middle-, and high-grade problems, I’m speaking based on my own personal performance levels. Problems rated 3 to 6A are relatively easy for me and serve as a foundation for warming up and refining technique. In contrast, problems rated 6B+ to 7A present a considerable challenge, pushing the limits of my strength and technical skills. Viewing the grading of problems as such helps me tailor my training sessions to effectively address different aspects of my climbing abilities.
 
 <content-table :headers="['Training Phases', 'Description', 'Time', 'Additional Comments']" :rows="[
     ['Stretching', 'A lighter version of my Mobility Sessions', '10-15 Minutes', ''],
@@ -156,13 +158,13 @@ When I write low-, middle- and high-grade problems, I refer to my own personal p
 
 #### Other things to be included in the future
 
-Unfortunately, I do not have more time available to spend on exercise without it affecting time spent on other hobbies, personal projects, friends and family. 
+Unfortunately, I do not have more time available to spend on exercise without it affecting time spent on other hobbies, personal projects, friends and family. However, if available time and reasoning presented itself, I would experiment with:
+- A balance-focused session. Something that would be held independent from the mobility and climbing-focused sessions, and likely provide a decent amount of benefits. 
 
-A Balance-focused session - Potentially to be included with the mobility-sessions.
+Other "aspects" of the my exercise-plan to be noted: 
+- The core section of the `Interval Core- and Finger-exercises` will be revised, as it currently is quite sub-optimal.
+- I will likely experiment with moving away from having my rest-day on Mondays, to instead having it mid-week.
 
-The core section of the `Interval Core- and Finger-exercises` will be revised, as it currently is quite sub-optimal.
-
-Moving away from having rest-day on mondays to having a rest day mid-week instead - just an idea though
 
 
 
