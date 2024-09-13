@@ -108,9 +108,9 @@ I incorporate a combination of yoga and stretching exercises into my regular mob
 I regularly adjust the entire mobility program based on my specific needs. For instance, if I experience significant stiffness in my forearms and wrists, I might shift the focus of the program to address these areas more intensively for a period. Such changes are temporary, but they ensure that I effectively manage and alleviate any discomfort. Despite these adjustments, the overall integrity of the mobility program remains intact. The core structure and balance of the sessions are preserved, ensuring that all key muscle groups continue to be addressed regularly.
 
 <content-table :headers="['Primary Muscle Groups', 'Stretches and Poses', 'Stretches using a Foam-roller', 'Additional Comments']" :rows="[
-    ['Wrists and Forearms', 'Wrist Rotation, Wrist Movement, Wrist Walks', '', ''],
-    ['Chest, Shoulders and Back', 'Lateral Stretch, Seated Shoulder Extension, Thread The Needle, Downward-Facing Dog, Child`s pose, Cat/Cow', '', ''],
-    ['Abs, Legs and Hips', 'Cobra Pose (+ Cat/Cow from before), Deep Runner Lunge (+ World`s Greatest Stretch), 90/90, Seated Butterfly Pose, Garland pose, Frog Pose, Single-Leg Frog Pose, Standing Straddle Stretch, Forward Fold, Wall Calf Stretch', '', ''],
+    ['Wrists and Forearms', 'Wrist Rotation, Wrist Movement, Wrist Walks', 'Forearm (Inner and Outer)', ''],
+    ['Chest, Shoulders and Back', 'Lateral Stretch, Seated Shoulder Extension, Thread The Needle, Downward-Facing Dog, Child`s pose, Cat/Cow', 'Upper back, Lats (Side), Lower Back, Chest', ''],
+    ['Abs, Legs and Hips', 'Cobra Pose (+ Cat/Cow from before), Deep Runner Lunge (+ World`s Greatest Stretch), 90/90, Seated Butterfly Pose, Garland pose, Frog Pose, Single-Leg Frog Pose, Standing Straddle Stretch, Forward Fold, Wall Calf Stretch', 'Calf roll (Inner and Outer Seperately), Hamstrings, Quads, Hip Abductors, Hip Flexors, Glute, Abs', ''],
 ]">
 </content-table>
 

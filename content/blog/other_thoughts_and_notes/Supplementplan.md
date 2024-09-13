@@ -1,7 +1,7 @@
 ---
 title: Current Supplement-plan
 description: Exercise log and notes
-date: 2024.09.09
+date: 2024.09.13
 ---
 
 
