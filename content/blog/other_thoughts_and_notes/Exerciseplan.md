@@ -4,7 +4,7 @@ description: Exercise log and notes
 date: 2024.09.09
 ---
 
-In designing my exercise plan, I aim to cover most aspects of what you would consider a well-rounded, balanced approach to exercise, albeit with an intense schedule. I have broken my routine into four key areas: Gym, Cardio, Mobility and Climbing-focused exercises. Each play of these are independent of one another, serving its own purpose and with its own specific goals. While I do not exercise to achieve any explicit or significant goals, I know each area and their respective sessions will benefit me in some way down the road, and I thereby utilise goal-setting to motivate myself to improve in each singular session. 
+In designing my exercise plan, I aim to cover most aspects of what you would consider a well-rounded, balanced approach to exercise, albeit with an intense schedule. I have broken my routine into four key areas: Gym, Cardio, Mobility and Recovery, and Climbing-focused exercises. Each play of these are independent of one another, serving its own purpose and with its own specific goals. While I do not exercise to achieve any explicit or significant goals, I know each area and their respective sessions will benefit me in some way down the road, and I thereby utilise goal-setting to motivate myself to improve in each singular session. 
 
 Considering the intensity of the sessions of each exercise-area, I view my overall exercise-methodology to be flexible and non-dogmatic. The exercise-plan is never fully set in stone, and is adjustable to account for injuries and changes in general health, shifts in schedule, and other factors. Although the weekly exercise-schedule is initially planned at the start of each week or the end of the previous week, it may be modified when needed. This approach ensures my own discipline towards the plan, as well as the plan's effectivity. 
 
@@ -16,11 +16,11 @@ The following table outlines my weekly exercise schedule before any potential ad
 <content-table :headers="['Day', 'Key area', 'Focus area', 'Additional Comments']" :rows="[
     ['Monday', 'Rest', '', ''],
     ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Interval core- and finger-exercises', ''],
-    ['Wednesday', 'Gym + Mobility', 'Back and Biceps + Mobility', ''],
+    ['Wednesday', 'Gym + Mobility and Recovery', 'Back and Biceps + Mobility and Recovery', ''],
     ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Interval core- and finger-exercises', ''],
-    ['Friday', 'Gym + Mobility', 'Chest, Shoulders and Triceps + Mobility', ''],
+    ['Friday', 'Gym + Mobility and Recovery', 'Chest, Shoulders and Triceps + Mobility and Recovery', ''],
     ['Saturday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Bouldering-session', ''],
-    ['Sunday', 'Gym + Mobility', 'Legs + Mobility', ''],
+    ['Sunday', 'Gym + Mobility and Recovery', 'Legs + Mobility and Recovery', ''],
 ]">
 </content-table>
 
@@ -102,10 +102,10 @@ I organise my cardio-sessions into three intensity levels: `Low-Intensity`, `Med
 </content-table>
 
 
-#### Mobility
-I incorporate a combination of yoga and stretching exercises into my regular mobility sessions. This practice focuses on improving flexibility and easing muscle tension, targeting key areas like the wrists, forearms, chest, shoulders, back, abs, legs, and hips. By consistently performing these exercises, I aim to maintain overall body flexibility, and support short- and long-term recovery. These sessions are integral to my routine, ensuring that I remain agile and reduce stiffness, which in turn helps me perform better in various physical activities and recover more efficiently from them.
+#### Mobility and Recovery
+I incorporate a combination of yoga and stretching exercises into my regular mobility and recovery sessions. This practice focuses on improving flexibility and easing muscle tension, targeting key areas like the wrists, forearms, chest, shoulders, back, abs, legs, and hips. By consistently performing these exercises, I aim to maintain overall body flexibility, and support short- and long-term recovery. These sessions are integral to my routine, ensuring that I remain agile and reduce stiffness, which in turn helps me perform better in various physical activities and recover more efficiently from them.
 
-I regularly adjust the entire mobility program based on my specific needs. For instance, if I experience significant stiffness in my forearms and wrists, I might shift the focus of the program to address these areas more intensively for a period. Such changes are temporary, but they ensure that I effectively manage and alleviate any discomfort. Despite these adjustments, the overall integrity of the mobility program remains intact. The core structure and balance of the sessions are preserved, ensuring that all key muscle groups continue to be addressed regularly.
+I regularly adjust the entire mobility and recovery program based on my specific needs. For instance, if I experience significant stiffness in my forearms and wrists, I might shift the focus of the program to address these areas more intensively for a period. Such changes are temporary, but they ensure that I effectively manage and alleviate any discomfort. Despite these adjustments, the overall integrity of the mobility and recovery program remains intact. The core structure and balance of the sessions are preserved, ensuring that all key muscle groups continue to be addressed regularly.
 
 <content-table :headers="['Primary Muscle Groups', 'Stretches and Poses', 'Stretches using a Foam-roller', 'Additional Comments']" :rows="[
     ['Wrists and Forearms', 'Wrist Rotation, Wrist Movement, Wrist Walks', 'Forearm (Inner and Outer)', ''],
