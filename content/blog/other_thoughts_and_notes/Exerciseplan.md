@@ -163,7 +163,7 @@ Unfortunately, I do not have more time available to spend on exercise without it
 
 Other "aspects" of the my exercise-plan to be noted: 
 - The core section of the `Interval Core- and Finger-exercises` will be revised, as it currently is quite sub-optimal.
-- I will likely experiment with moving away from having my rest-day on Mondays, to instead having it mid-week.
+- I will likely experiment with moving away from having my rest-day on Mondays, to instead having it mid-week (Either Wednesday, Thursday, or Friday).
 
 
 
