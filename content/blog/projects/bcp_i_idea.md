@@ -2,6 +2,7 @@
 title: The Idea of Predicting Business Cycles
 description: BCP - I
 date: 2024.09.01
+readable: true
 ---
 
 This is a test. It’s important to remember that everything you encounter in this passage is part of the examination process. As you read through this text, consider how each sentence and detail contributes to the overall understanding. Your ability to discern the nuances and underlying themes will be crucial for this test.

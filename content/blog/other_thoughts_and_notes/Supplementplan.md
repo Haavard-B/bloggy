@@ -2,6 +2,7 @@
 title: Current Supplement-plan
 description: Exercise log and notes
 date: 2024.09.13
+readable: true
 ---
 
 For my exercise-regimen, I utilise a carefully chosen combination of supplements to support my activity-level. Specifically, I use  `Swedish Supplements Massive Mass`, `Swedish Supplements Casein Royal`, and `Creakong CX8`, each with particular reasoning supporting its choice: 

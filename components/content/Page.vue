@@ -91,6 +91,7 @@ export default {
               "slug",
               "coverImage",
               "readButton",
+              "readable",
             ])
             .sortBy("date", "desc")
             .limit(null)

@@ -2,6 +2,7 @@
 title: Predicting Business Cycles Roadmap
 description: BCP - III
 date: 2024.09.09
+readable: false
 ---
 
 
