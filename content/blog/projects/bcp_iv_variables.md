@@ -1,6 +1,6 @@
 ---
 title: Variables for Predicting Business Cycles
 description: BCP - IV
-date:
+date: 2024.01.01
 readable: false
 ---
