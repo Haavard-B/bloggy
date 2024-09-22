@@ -1,6 +1,6 @@
 ---
 title: The Quarterlife Crisis
-date: 
+date: 2024.01.01
 readable: false
 ---
 
