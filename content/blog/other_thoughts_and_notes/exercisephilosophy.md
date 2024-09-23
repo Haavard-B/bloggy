@@ -2,7 +2,7 @@
 title: My Exercise-Philosophy
 description: Exercise log and notes
 date: 2024.09.22
-readable:
+readable: true
 ---
 
 My exercise-philosophy is largely built on the simple ideas of "I can, I should, and I have no reason not to", "I do it right, and I do it right everyday", and "I will not regret not prioritising my health today, tomorrow, and in the days, months, and years to come". These concepts provide me with the foundation for a consistent and thoughtful approach to exercise, where both physical and mental well-being are at the forefront. While these ideas may appear simplistic or even corny, they have proven incredibly effective in motivating me to exercise regularly and with purpose. By breaking down these principles, I find clarity in why I prioritise my health and how I approach fitness without overwhelming myself with perfectionism or fleeting, surface-level goals.
