@@ -2,32 +2,19 @@
 title: My Exercise-Philosophy
 description: Exercise log and notes
 date: 2024.09.22
-readable: false
+readable:
 ---
 
-My general exercise-philosophy is largely built on the simple idea of 'I can, I should, and there is no reason not to'. 
+My exercise-philosophy is largely built on the simple ideas of "I can, I should, and I have no reason not to", "I do it right, and I do it right everyday", and "I will not regret not prioritising my health today, tomorrow, and in the days, months, and years to come". These concepts provide me with the foundation for a consistent and thoughtful approach to exercise, where both physical and mental well-being are at the forefront. While these ideas may appear simplistic or even corny, they have proven incredibly effective in motivating me to exercise regularly and with purpose. By breaking down these principles, I find clarity in why I prioritise my health and how I approach fitness without overwhelming myself with perfectionism or fleeting, surface-level goals.
 
+First, "I can, I should, and I have no reason not to," is rooted in the understanding that I am both physically and mentally capable of exercising the way I do, and there are no substantial barriers preventing me from doing so. In fact, the largest barrier is related to lack of personal free-time outside of exercising, which is easily subverted by a structured day-to-day life. I view exercise as overwhelmingly beneficial for my health, both mentally and physically, and I cannot justify any real reason not to pursue it. While this may give the idea of how I view exercise as something I should do due to the obvious benefits and the lack of any drawbacks, I also attempt to frame exercise in a way that shifts it from being being just that, something I 'should' do, to something I am fortunate enough to have the opportunity to do. The knowledge that, if I lacked the ability to exercise in the same manner I am currently doing, it would be something I would desperately want to regain, drives me to focus on how fortunate I am to have the opportunity to consistently push my physical self to its limits.
 
-The gist of it is 'Train your hardest because you can, not because you should' - Dette er bare treningsmessig, ikke nødvendigvis hvorfor jeg trener
+Secondly, "I do it right, and I do it right every day" emphasises the importance of consistency, balance, and flexibility. Doing it right does not mean following a rigid, flawless regimen, but instead it means respecting limits and knowing when to prioritise other aspects of life over exercise, while also recognising the areas where exercise takes precedence. Sometimes, doing it right involves listening to my body and choosing not to work out or adjusting my routine to fit my environment. This approach emphasises self-compassion and adaptability, allowing me to maintain a sustainable routine without burning out or overexerting myself. At the heart of this idea is the philosophy of Kaizen — Consistent, daily improvements. I believe that I am built upon the small actions I take every day, and the end results in any number of days, months and years are merely byproducts of this consistency. Through this philosophy, I avoid the trap of perfectionism and instead embrace the satisfaction that comes from doing things right, even if it doesn’t look perfect. Doing it right feels good, not because it’s flawless, but because it’s sustainable and mindful of my long-term well-being.
 
-disse 2 videoene: https://www.youtube.com/watch?v=0AY7--sT9YY&t=196s&ab_channel=LessonsFromAnime
-https://www.youtube.com/watch?v=HR0tggNVxXc&ab_channel=LessonsFromAnime
+Third, "I will not regret not prioritising my health today, tomorrow, and in the days, months, and years to come"  is grounded in the long-term benefits of maintaining a healthy mind and body. I know that the effort I put into exercising now is something I will deeply appreciate in the future, and I have never regretted choosing to exercise. While visible results like muscle growth or improved performance are encouraging, they are merely side effects of a much larger goal, ensuring that I remain physically and mentally strong over time. This long-term perspective helps maintain the focus and commitment to exercise, knowing that every decision to prioritise my health today will pay off in the days, months and years ahead.
 
-Hva handler filosofien om:
-- Jeg vet jeg burde, jeg vet jeg kan, og jeg vet jeg ikke kommer til å angre på det, samt at det er ingen grunn til at jeg ikke kan (Det å pushe treningen litt hardere er ganske lett når en tenker på at det er fysisk og psykisk ingenting som står i veien for å gjøre det) (Similarly, bruker jeg supplementer(som proteinpulver, kreatin etc) som et tool for å forsikre meg om at jeg for så mye ut av en treningsøkt som mulig)
-- Jeg ser på trening som like nødvendig og sunt som å spise og drikke
--
--
-- Sideeffects som at jeg får synlige muskler, klarer å løfte mer, og til en grad det at jeg klatrer bedre er brukt som positiv reinforcement ovenfor treningen, men er ikke bakgrunnen til treningen
+For me, exercise is a testament to my own commitment and discipline. I view it as essential as eating or drinking, something my body and mind require to function at its best. It's primary function is not fun or enjoyment, and my workouts are grounded in the fact that they keep me healthy, even though I sometimes question whether deeper, subconscious drives play a role in my motivation.
 
-if my body is able and my mind is willing, then I have every reason to do it
+The thought of being out of shape is incredibly unappealing to me. I want to maintain the capacity to engage in the activities I enjoy, whether that is playing sports, going for long hikes, or simply enjoying an active lifestyle. Losing that ability would be frustrating and serves as a strong motivator to stay consistent. While I am not aiming for relatively extreme accomplishments like running a marathon, I recognise that if I were to achieve such goals, it would simply be a rewarding side effect of my dedication to exercise in the same manner as visible muscles are.
 
-Andre notater:
-- Trening gir meg i utgangspunktet veldig lite glede, men dets funksjon er heller ikke å gi meg glede. Om jeg vil gjøre noe gøyt, går jeg på tur, elelr ski, trener med noen, etcl - Et problem med dette er at lite med det er 'gøyt'.
-- Jeg grunner treningen min i at det er sunt (bl.a), men det er troublesome å tenke på om dette er noe jeg bare gjør for e nsub-councious mål om reproduksjon/overlevelse (ref moral animal) eller om det er noen andre sub-consious grunner til at jeg trener?
-- Det er også temmelig kjedelig å ikke være i god form. Fysisk sett er det veldig lite jeg ikke kan gjøre for øyeblikket (mtp. limitations), og det å f.eks ikke kunne gå en tung tur, løpe til bussen, gå opp trapper, uten å bli annpusten er gaaanske kjedelig
-- Filosofien er skjør, ideen den er bygget på er ganske skjør - Et massivt con med det
-- If you do something, do it properly - Ron Swanson: Dont do 2 things halfass, do 1 thing full ass
-
-
-I know every workout benefits me not just today, but in the days, months, and years to come
+However, I do recognise my philosophy surrounding exercise is somewhat fragile. It relies on a delicate balance of motivations, and there is always the potential for it to shift. This mindset works best in areas where I have a genuine interest, allowing me to focus my energy effectively. Is it hypocritical to limit this approach to specific aspects of my life? Perhaps, but I find that it helps me maintain my commitment to health while allowing room for flexibility in other areas.
