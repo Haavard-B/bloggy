@@ -80,7 +80,7 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
-    ['Belt Squats', 'Glutes, Quads, Hamstrings*, Adductors*, Erector Spinae*', '4 Sets of 6-12 Reps', ''],
+    ['Plate-loaded Leg Press', 'Glutes, Quads, Hamstrings*, Adductors*, Erector Spinae*', '4 Sets of 6-12 Reps', ''],
     ['Uni-lateral Standing Leg Curls', 'Hamstrings, Glutes*', '4 Sets for 8-12 Reps', 'DS. '],
     ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
     ['Quad-focused Hacksquat', 'Quads, Glutes*, Hamstrings*', '3-4 Sets for 8-12 Reps', 'DS. '],
@@ -88,7 +88,7 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 ]">
 </content-table>
 
-Other exercises previously used within this group includes: Leg Extensions, Laying Hamstring Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Bulgarian Split Squats (Led to mild knee pain), Barbell Hip-thrust (Crushed my pinkie under the plates), Plate-loaded Leg Press (Just too intense), and other varieties of the exercises above.
+Other exercises previously used within this group includes: Leg Extensions, Laying Hamstring Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Bulgarian Split Squats (Led to mild knee pain), Barbell Hip-thrust (Crushed my pinkie under the plates), Belt Squat (Belt hurt), and other varieties of the exercises above.
 
 In the future, when my back is fully functional again, I will experiment with lever/pendulum squats for better quad activation.
 
