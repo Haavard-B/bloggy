@@ -93,7 +93,7 @@ Other exercises previously used within this group includes: Leg Extensions, Layi
 Recently, I have been experiencing discomfort in my lower back, prompting me to create an adjusted version of my leg sessions that swaps out exercises which place excessive strain on that area, exercises that require significant stabilization, or exercises that involve multiple joints. Additionally, the weights utilised in specific exercises, such as Pendulum Squats and Hip Thrusts, are naturally reduced to ensure proper form throughout the exercises.
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
     ['Seated Leg Extensions', 'Quads', '4 Sets for 8-12 Reps', ''],
-    ['Seated Hamstring Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'Lower back was utilised in standing Hamstring curls, so I opted for Seated curls instead'],
+    ['Seated Hamstring Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'Lower back was slightly engaged in standing Hamstring curls, so I opted for Seated curls instead'],
     ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets for 10-15 Reps', ''],
     ['Pendulum Squats', 'Quads, Glutes', '3-4 Sets for 8-12 Reps', 'Focus on form - May be skipped if the state of the lower back is sub-optimal'],
     ['Plate-loaded Hip Thrust', 'Glutes, Hamstrings', '4 Sets for 8-12 Reps', '']
