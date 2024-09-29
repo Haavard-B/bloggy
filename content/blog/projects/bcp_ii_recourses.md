@@ -19,16 +19,18 @@ readable: true
 
 
 
-#### NEAT Recourses
+#### Relevant Machine Learning Methodologies
 
-##### Papers
-- Test
-- Test 2
+##### NEAT
+- Stanley, K. O., & Miikkulainen, R. (2002). Evolving Neural Networks through Augmenting Topologies. Evolutionary Computation, 10(2), 99-127. [MIT Press](https://ieeexplore.ieee.org/abstract/document/6790655)
 
 #### Macroeconomic Recourses
 
 ##### Books
-- Romer, David. (2022). Advanced Macroeconomics. 5th ed., McGraw-Hill Education
+- Romer, David. (2022). Advanced Macroeconomics (5th ed.). McGraw-Hill Education
+- Tvede, Lars. (2006). Business Cycles: History, Theory and Investment Reality (3rd ed.). Wiley
+- Taylor, J. B., & Weerapana, A. (2020). Principles of macroeconomics (8th ed.). Pearson
+- Obstfeld, M., & Rogoff, K. (1996). Foundations of international macroeconomics. MIT Press
 
 
 ##### Articles
@@ -43,8 +45,11 @@ readable: true
 #### Financial Market Recourses 
 
 ##### Books
-- Test 
-- Test 2
+- Shiller, R. J. (2015). Irrational exuberance (3rd ed.). Princeton University Press
+- Mishkin, F. S. (2018). The economics of money, banking, and financial markets (12th ed.). Pearson
+- Minsky, H. P. (2008). Stabilizing an unstable economy. McGraw-Hill Education
+- Taleb, N. N. (2007). The black swan: The impact of the highly improbable. Random House
+- Allen, F., & Gale, D. (2007). Understanding financial crises. Oxford University Press
 
 ##### Papers
 
