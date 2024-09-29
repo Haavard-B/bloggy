@@ -111,7 +111,7 @@ I regularly adjust the entire mobility and recovery program based on my specific
 <content-table :headers="['Primary Muscle Groups', 'Stretches and Poses', 'Stretches using a Foam-roller', 'Additional Comments']" :rows="[
     ['Wrists and Forearms', 'Wrist Rotation, Wrist Movement, Wrist Walks', 'Forearm (Inner and Outer)', ''],
     ['Chest, Shoulders and Back', 'Lateral Stretch, Seated Shoulder Extension, Thread The Needle, Downward-Facing Dog, Child`s pose, Cat/Cow', 'Upper back, Lats (Side), Lower Back, Chest', ''],
-    ['Abs, Legs and Hips', 'Cobra Pose (+ Cat/Cow from before), Deep Runner Lunge (+ World`s Greatest Stretch), 90/90, Seated Butterfly Pose, Garland pose, Frog Pose, Single-Leg Frog Pose, Standing Straddle Stretch, Forward Fold, Wall Calf Stretch', 'Calf roll (Inner and Outer Seperately), Hamstrings, Quads, Hip Abductors, Hip Flexors, Glute, Abs', ''],
+    ['Abs, Legs and Hips', 'Cobra Pose (+ Cat/Cow from before), Deep Runner Lunge (+ World`s Greatest Stretch), 90/90, Seated Butterfly Pose, Garland pose, Frog Pose, Single-Leg Frog Pose, Standing Straddle Stretch, Forward Fold, Wall Calf Stretch, Top of the Foot Stretch', 'Calf roll (Inner and Outer Seperately), Hamstrings, Quads, Hip Abductors, Hip Flexors, Glute, Abs', ''],
 ]">
 </content-table>
 
@@ -141,7 +141,7 @@ These sessions are frequently updated based on my progress and evolving needs. A
 
 
 ##### Bouldering Sessions
-My bouldering sessions are structured to progressively enhance my climbing performance through these varying levels of difficulty. I frequently adjust the focus and difficulty of the problems I work on based on my current performance and specific needs. For instance, if I find that certain grades no longer provide sufficient challenge or if I need to target specific techniques, I modify the session accordingly. This ensures that my training remains effective and aligned with my climbing goals, continually pushing my limits while addressing any areas that need improvement.
+My bouldering sessions are structured to progressively enhance my climbing performance through these varying levels of difficulty. I frequently adjust the focus and difficulty of the problems I work on based on my current performance and specific needs. For instance, if I find that certain grades no longer provide sufficient challenge or if I need to target specific techniques, I modify the session accordingly. This ensures that my training remains effective and aligned with my climbing goals, continually pushing my limits while addressing any areas that need improvement. 
 
 When I refer to low-, middle-, and high-grade problems, I’m speaking based on my own personal performance levels. Problems rated 3 to 6A are relatively easy for me and serve as a foundation for warming up and refining technique. In contrast, problems rated 6B+ to 7A present a considerable challenge, pushing the limits of my strength and technical skills. Viewing the grading of problems as such helps me tailor my training sessions to effectively address different aspects of my climbing abilities.
 
@@ -149,12 +149,15 @@ When I refer to low-, middle-, and high-grade problems, I’m speaking based on 
     ['Stretching', 'A lighter version of my Mobility Sessions', '10-15 Minutes', ''],
     ['Warm-up', 'Low-grade problems (3 to 6A) - Specifically focus on warming up legs and shoulders', '10-20 Minutes', ''],
     ['Technique-focused Climbing', 'Commonly middle-grade problems (5+ to 6B), particularly technique-heavy problems, with larger focus on `Silent Movements` and generally good technique', 'Minimum 30 Minutes', ''],
-    ['Grade-Chasing', 'High-grade problems (6B+ to 7A) where I focus on pushing my strength and technique', '30-45 Minutes', ''],
+    ['Grade-chasing', 'High-grade problems (6B+ to 7A) where I focus on pushing my strength and technique', '30-45 Minutes', ''],
     ['Cool-down', 'A gradual decrese from Middle- to Low-grade problems (6B to 5)', '10-15 Minutes', ''],
     ['Stretching', 'A lighter version of my Mobility Sessions', '10-15 Minutes', ''],
 ]">
 </content-table>
 
+Recently, I have also attempted to incorporate a Min-5-approach to my bouldering sessions, specifically the Technique-focused phase and Grade-chasing phase. The idea is to give yourself minimum 5 attempts to solve a bouldering-problem, regardless of its difficulty. Additionally, for each attempt, regardless of how far I advanced on the problem, I am to give at least two pieces of feedback to myself on how to further advance on the problem. These could be observations on body positions, grip technique, balance, or other technical aspects. This 'self-assessment' forces me to analyse what went right or wrong in each try, thereby improving both my technique and my ability to read bouldering problems. 
+
+The requirement of minimum 5 attempts, on the other hand, is to avoid the mindset of prematurely throwing in the towel on a problem, concluding it is too difficult without giving it a proper attempt. Often, I find myself quick to judge a problem based on its initial appearance or my first attempt, and by committing to multiple, proper attempts, I may move past the opening doubts and frustrations, forcing myself to keep an open mind and challenge myself beyond what I might think I can achieve at first glance. Persistence, embracing trial and error, and being open to experimentation beyond initial expectations is what lies at bouldering's, and rock-climbing in general's core, and by limiting myself with few, half-hearted attempts, I risk stifling my growth as a climber. Each attempt, even if it feels unsuccessful, contributes to my understanding of the route, my own capabilities, and how I may improve.
 
 
 #### Other things to be included in the future
