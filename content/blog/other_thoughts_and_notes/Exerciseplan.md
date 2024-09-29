@@ -81,16 +81,24 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
     ['Plate-loaded Leg Press', 'Glutes, Quads, Hamstrings*, Adductors*, Erector Spinae*', '4 Sets of 6-12 Reps', ''],
-    ['Uni-lateral Standing Leg Curls', 'Hamstrings, Glutes*', '4 Sets for 8-12 Reps', 'DS. '],
+    ['Uni-lateral Standing Leg Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'DS. '],
     ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
-    ['Quad-focused Hacksquat', 'Quads, Glutes*, Hamstrings*', '3-4 Sets for 8-12 Reps', 'DS. '],
-    ['Plate-loaded Hipthrust', 'Glutes, Hamstrings, Erector Spinae', '3-4 Sets of 8-12 Reps', ''],
+    ['Quad-focused Pendulum Squats', 'Quads, Glutes*, Hamstrings*', '3-4 Sets for 8-12 Reps', 'DS. '],
+    ['Plate-loaded Hipthrust', 'Glutes, Hamstrings', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
 Other exercises previously used within this group includes: Leg Extensions, Laying Hamstring Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Bulgarian Split Squats (Led to mild knee pain), Barbell Hip-thrust (Crushed my pinkie under the plates), Belt Squat (Belt hurt), and other varieties of the exercises above.
 
-In the future, when my back is fully functional again, I will experiment with lever/pendulum squats for better quad activation.
+Recently, I have been experiencing discomfort in my lower back, prompting me to create an adjusted version of my leg sessions that swaps out exercises which place excessive strain on that area, exercises that require significant stabilization, or exercises that involve multiple joints. Additionally, the weights utilised in specific exercises, such as Pendulum Squats and Hip Thrusts, are naturally reduced to ensure proper form throughout the exercises.
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
+    ['Seated Leg Extensions', 'Quads', '4 Sets for 8-12 Reps', ''],
+    ['Seated Hamstring Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'Lower back was utilised in standing Hamstring curls, so I opted for Seated curls instead'],
+    ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets for 10-15 Reps', ''],
+    ['Pendulum Squats', 'Quads, Glutes', '3-4 Sets for 8-12 Reps', 'Focus on form - May be skipped if the state of the lower back is sub-optimal'],
+    ['Plate-loaded Hip Thrust', 'Glutes, Hamstrings', '4 Sets for 8-12 Reps', '']
+]">
+</content-table>
 
 #### Cardio
 I organise my cardio-sessions into three intensity levels: `Low-Intensity`, `Medium-Intensity` and `High-Intensity`. This structure allows me to vary the pace and distance depending on my recovery. In terms of terrain, I remain flexible - Anything goes as long as its not overly steep, though I prefer gravel roads when easily accessible. Before and after each run, regardless of intensity level, I also always incorporate a short mobility session. This routine helps prepare the body for the session ahead, and aids in recovery, easing muscle tension and promotes flexibility afterwards.
