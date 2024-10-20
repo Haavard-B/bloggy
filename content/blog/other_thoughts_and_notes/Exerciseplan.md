@@ -38,6 +38,8 @@ I also emphasise a progressive approach to warming up and increasing weights bef
 
 [Drop sets](https://en.wikipedia.org/wiki/Drop_set) are also frequently incorporated into my training regimen, particularly as the final 1-2 sets for specific exercises. After pushing an exercise to failure, or in some cases past it by performing several half-repetitions, I reduce the weight and continue the set, which allows me to push through the last bit of exhaustion. This technique not only intensifies the workout but also helps me feel like I have maximised my efforts and thoroughly fatigued my muscles.
 
+In recent weeks, I’ve been considering a change to my workout routine, with a goal of six gym sessions per week organized into two sets of push/pull/legs. However, given my current health concerns, this plan isn’t feasible right now. Additionally, due to time constraints regarding how much time I want to dedicate to workouts each day, I may need to adjust my overall strategy, as I prefer not to work out two to three times a day or spend up to three hours daily exercising.
+
 The following sub-chapters provide a detailed description of each primary group:
 ( * refers to it being a 'secondary' muscle group utilised in the exercise, and DS = Inclined to using drop-sets in the exercise)
 (There may be faults in the 'Primary Muscle Groups' categorisation)
