@@ -59,23 +59,25 @@ The following sub-chapters provide a detailed description of each primary group:
 
 Other exercises previously used within this group includes: Dips (Bodyweight and Weighted), Decline Bench Press, and Dumbbell/Barbell varieties of the exercises above. 
 
-##### Back and Biceps
+##### Back and Biceps (and Shoulders)
 
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
     ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '3-4 Sets of 12 Reps', 'Serves as a harder warm-up'],
     ['Uni-lateral External Rotation (Cable)', 'Rotator Cuffs(Infra + Teres Minor), Deltoids(Post.)*', '3-4 Sets of 12-15 Reps', 'Low weights to ensure control and proper activation of stabalising muscles'],
     ['Uni-lateral Lever Underhand Pulldown', 'Lats, Rhom, Traps, Biceps, Deltoids(Post)*', '3-4 Sets of 6-12 Reps', 'DS. '],
-    ['Uni-lateral Internal Rotation (Cable)', 'Rotator Cuffs(Subscap. + Teres Major), Deltoid(Ant.)', '3-4 Sets of 12-15 Reps', 'Low weights to ensure control and proper activation of stabalising muscles'],
     ['Barbell Deadlifts', 'Erector Spinae, Glutes, Hamstrings, Lats, Traps, Forearms', '3-4 Sets of 8-12 Reps', ''],
     ['Iso-lateral Row', 'Lats, Rhom, Traps, Biceps, Deltoids (Post)', '3-4 Sets of 8-12 Reps', 'DS.'],
     ['Uni-lateral Forward-leaning Bicep Curl (Cable)', 'Biceps, Brachialis', '3-4 Sets of 8-12 Reps', 'DS.'],
+    ['Cable Face Pull', 'Deltoids (Rear + Lat.*), Rhom, Traps', '3-4 Sets of 8-12 Reps', '']
+    ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
-Other exercises previously used within this group includes: Weighted Pullups, Lever Rows, Barbell Rows, Cable Rows, Cable Pulldown, and other varieties of the exercises above.
+Other exercises previously used within this group includes: Weighted Pullups, Lever Rows, Barbell Rows, Cable Rows, Cable Pulldown, Uni-lateral Internal Rotation, and other varieties of the exercises above.
 
-Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-back 'problems'. 
+Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-back 'problems'. I have also decided to include various exercises focusing on shoulders as a means to prevent common shoulder injuries by improving stability, strengthening the rotator cuff, and balancing muscle development around the shoulder joint.
 
 
 ##### Legs
