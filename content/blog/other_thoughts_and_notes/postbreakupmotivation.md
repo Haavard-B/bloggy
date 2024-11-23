@@ -1,0 +1,15 @@
+---
+title: The Post-Breakup Motivation
+date: 2024.11.23
+readable: TRUE
+---
+
+It is no coincidence that many people ramp up their workouts after a breakup. When we experience emotional pain, our bodies crave a natural antidote. Exercise offers a solution: it triggers the release of endorphins, which are chemicals that promote feelings of happiness and well-being. In times of heartbreak, those mood-boosting effects are amplified, providing an emotional lift. This biochemical response helps individuals temporarily numb the pain, offering a brief escape from the emotional turbulence that comes with the end of a relationship. While physical strength grows, so too does emotional resilience, as each rep and set feels like a small victory.
+
+Breakups often also leave people feeling unmoored, as if they have lost control over their lives. Exercise is one way to regain that control. It offers structure in an otherwise chaotic time, allowing us to carve out time for ourselves and re-establish a sense of routine. As much as exercise is a way to boost mood, it is also a method of rebuilding self-confidence. The more you push your physical limits, the more empowered you feel, and in the process, your self-worth is often restored. For many, the gym becomes not just a place to work out, but a place to rediscover strength—both physical and emotional.
+
+After my own breakup, I suddenly found myself with hours to fill each day—time that was once shared with someone else, now left empty. At first, I did not know what to do with all that time. The thought of sitting around and letting the days slip by was not an option. I needed something to focus on, something that would not only occupy my mind but also give me a sense of purpose. While I have been working out semi-regularly since I was about 16, I had never committed myself to a thorough and well thought-out workout and diet programme. The following two weeks after the breakup I spent almost religiously researching every aspect of working out, diet and how to put together a [programme](https://haavard.netlify.app/content/blog/other_thoughts_and_notes/Exerciseplan). At first, it was about finding a way to fill the hours and distract myself, but as I continued to exercise, adjust the programme, and further my knowledge in the field, both from a physical and psychological aspect, my [philosophy](https://haavard.netlify.app/content/blog/other_thoughts_and_notes/exercisephilosophy) towards fitness began to shift towards something more whole and reliable.
+
+Though, the philosophy was not 'perfect' in terms of motivation, as I have begun to see through my exercise-log. Over time, particularly since October (2024), I noticed a downward trend in the number of sessions I was able to keep up with, as depicted in the graph. Despite the growing significance of fitness and evolution of my exercise-philosophy, I have found it harder to maintain the same level of consistency. I find this incredibly annoying. 
+
+![image](/public/otherthoughts/workouts.PNG)
