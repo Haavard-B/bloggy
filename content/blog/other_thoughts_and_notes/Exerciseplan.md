@@ -69,7 +69,7 @@ Other exercises previously used within this group includes: Dips (Bodyweight and
     ['Barbell Deadlifts', 'Erector Spinae, Glutes, Hamstrings, Lats, Traps, Forearms', '3-4 Sets of 8-12 Reps', ''],
     ['Iso-lateral Row', 'Lats, Rhom, Traps, Biceps, Deltoids (Post)', '3-4 Sets of 8-12 Reps', 'DS.'],
     ['Uni-lateral Forward-leaning Bicep Curl (Cable)', 'Biceps, Brachialis', '3-4 Sets of 8-12 Reps', 'DS.'],
-    ['Cable Face Pull', 'Deltoids (Rear + Lat.*), Rhom, Traps', '3-4 Sets of 8-12 Reps', '']
+    ['Cable Face Pull', 'Deltoids (Rear + Lat.*), Rhom, Traps', '3-4 Sets of 8-12 Reps', ''],
     ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', 'DS. '],
     ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', ''],
 ]">
