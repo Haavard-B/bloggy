@@ -11,6 +11,7 @@ readable: false
 - Horowitz, A. (2013). On looking: Eleven walks with expert eyes.
 - Wright, R. (1994). The moral animal.
 - Robinson, D. S. (Ed.). (2001). The Cambridge companion to philosophy.
+- Housel, M. (2020). The Psychology of Money.
 
 #### Other
 - Lawrence, D. H. (1920). Women in love.
@@ -21,3 +22,5 @@ readable: false
 
 #### Resources
 - [Oxford Handbooks on Philosophy](https://www.thriftbooks.com/series/oxford-handbooks-in-philosophy/71161/?srsltid=AfmBOor5uIlGjdon8tXVAnLz1O8eaEISIGEbaX60wQ-6EvxcCzGlygi1)
+- [The Collaborative Fund Readlist](https://collabfund.com/blog/good-books/)
+- [Robert Green's Books](https://powerseductionandwar.com/)
