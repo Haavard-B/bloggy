@@ -18,10 +18,9 @@ readable: true
 - Heller, J. (1974). Something happened. ***
 - Wouk, H. (1951). The Caine mutiny. ***
 - Allen, D. (2001). Getting things done: The art of stress-free productivity. ***
+- [Robert Green's Books](https://powerseductionandwar.com/)
 
-
-#### Resources
+#### Resources and Readlists
 - [Oxford Handbooks on Philosophy](https://www.thriftbooks.com/series/oxford-handbooks-in-philosophy/71161/?srsltid=AfmBOor5uIlGjdon8tXVAnLz1O8eaEISIGEbaX60wQ-6EvxcCzGlygi1)
 - [The Collaborative Fund Readlist](https://collabfund.com/blog/good-books/)
-- [Robert Green's Books](https://powerseductionandwar.com/)
 <!-- [Inspo from Chris Williamson's readlist](https://www.goodreads.com/list/show/184325.100_Books_To_Read_Before_You_Die_by_Chris_Williamson) -->
