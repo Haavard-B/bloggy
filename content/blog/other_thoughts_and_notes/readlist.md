@@ -8,7 +8,6 @@ These books are in no particular order of being read or bought. *** means they h
 
 #### Philosophy
 - Mishima, Y. (1970). Sun and steel.
-- Housel, M. (2020). The Psychology of Money.
 - Dawkins, R. (1976). The selfish gene.
 - Frankl, V. (1946). Man's Search for Meaning.*
 - Horowitz, A. (2013). On looking: Eleven walks with expert eyes.*
@@ -41,7 +40,7 @@ These books are in no particular order of being read or bought. *** means they h
 (Note: These are used as inspiration and for discovery more than as a readlist)
 - [Oxford Handbooks on Philosophy](https://www.thriftbooks.com/series/oxford-handbooks-in-philosophy/71161/?srsltid=AfmBOor5uIlGjdon8tXVAnLz1O8eaEISIGEbaX60wQ-6EvxcCzGlygi1)
 - [The Collaborative Fund Readlist](https://collabfund.com/blog/good-books/)
-- [Chris Williamson's readlist](https://www.goodreads.com/list/show/184325.100_Books_To_Read_Before_You_Die_by_Chris_Williamson)
+- [Chris Williamson's Readlist](https://www.goodreads.com/list/show/184325.100_Books_To_Read_Before_You_Die_by_Chris_Williamson)
 
 
 #### Other Books and such to be reviewed to read or not:
