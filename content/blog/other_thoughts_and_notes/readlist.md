@@ -27,6 +27,7 @@ These books are in no particular order of being read or bought. *** means they h
 - Skinner, B. F. (1938). The Behaviour of Organisms.
 - Darwin, C. (1872). The Expression of the Emotions in Man and Animals.
 - Sacks, O. (1985). The Man who Mistook his Wife for a Hat.*
+- May, Rollo. (1969). Love and Will.
 
 #### Other
 - Lawrence, D. H. (1920). Women in love. ***
