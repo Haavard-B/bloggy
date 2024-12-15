@@ -35,7 +35,8 @@ These books are in no particular order of being read or bought. *** means they h
 - Wouk, H. (1951). The Caine mutiny. ***
 - Allen, D. (2001). Getting things done: The art of stress-free productivity. ***
 - Greene, R. (2006). The 33 Strategies of War.
-- Greene, R. (1998). The 48 laws of power
+- Greene, R. (1998). The 48 Laws of Power.
+- Wallace, D, F. (1996). Infinite Jest.
 
 #### Resources and Readlists
 (Note: These are used as inspiration and for discovery more than as a readlist)
