@@ -1,7 +1,7 @@
 ---
 title: Ex sine gaver
 date: 2025.01.04
-readable: true
+readable: false
 ---
 
 Et bilde som viser de tingene fra eksen min jeg enda ikke har kastet fordi jeg synes de er alt for fine til å kaste eller kvitte seg med, så nå bare har jeg dem uten å vite hva å gjøre med dem (og alt er laget av henne for hånd utenom boken). Og nå ligger det i en boks i en pose i en bod

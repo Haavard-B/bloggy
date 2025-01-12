@@ -1,6 +1,6 @@
 ---
 title: Adapting Calligraphy Style
-description: Calligraphy - P1 - i
+description: Calligraphy - ACS - i
 date: 2024.01.01
 readable: false
 ---
