@@ -25,7 +25,7 @@ For 2025, I have set a series of clear goals to ensure I stay on track with both
 
 ##### Goals related to hobbies and interest is as follows:
 Photography:
-- Minimum one session a week focused on improving my photography skills. The length and content of a session may vary from one session to the other. I will, at a later date, create a plan on how I will go forward in bettering my photography.
+- Minimum one session a week focused on improving my photography skills. The length and content of a session may vary from one session to the other. I will, at a later date, create a plan on how I will go forward in bettering my photography. ([The Plan in Question](https://haavard.netlify.app/content/blog/other_thoughts_and_notes/photographyplan) to work on the fundamentals)
 Reading:
 - Reading minimum five hours a week. Considering I spend an estimated six hours a week on commuting to work, this should not prove itself a challenge. The books I will read will mostly be from my [To-be-read-list](https://haavard.netlify.app/content/blog/other_thoughts_and_notes/readlist)
 Calligraphy:
