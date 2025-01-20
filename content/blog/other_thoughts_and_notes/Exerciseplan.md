@@ -47,7 +47,7 @@ The following sub-chapters provide a detailed description of each primary group:
 ##### Chest, Shoulders and Triceps
 
 
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
     ['Iso-lateral Bench Press', 'Pectoralis(Major(Mid)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
     ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
     ['Uni-lateral Cable Tricep Kickback', 'Triceps, Deltoid (Post)*', '3-4 Sets of 8-12 Reps', 'DS.'],
@@ -83,7 +83,7 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 ##### Legs
 
 
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
     ['Plate-loaded Leg Press', 'Glutes, Quads, Hamstrings*, Adductors*, Erector Spinae*', '4 Sets of 6-12 Reps', ''],
     ['Uni-lateral Standing Leg Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'DS. '],
     ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
@@ -95,7 +95,7 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 Other exercises previously used within this group includes: Leg Extensions, Laying Hamstring Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Bulgarian Split Squats (Led to mild knee pain), Barbell Hip-thrust (Crushed my pinkie under the plates), Belt Squat (Belt hurt), and other varieties of the exercises above.
 
 Recently, I have been experiencing discomfort in my lower back, prompting me to create an adjusted version of my leg sessions that swaps out exercises which place excessive strain on that area, exercises that require significant stabilization, or exercises that involve multiple joints. Additionally, the weights utilised in specific exercises, such as Pendulum Squats and Hip Thrusts, are naturally reduced to ensure proper form throughout the exercises.
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and time', 'Additional Comments']" :rows="[
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
     ['Seated Leg Extensions', 'Quads', '4 Sets for 8-12 Reps', ''],
     ['Seated Hamstring Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'Lower back was slightly engaged in standing Hamstring curls, so I opted for Seated curls instead'],
     ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets for 10-15 Reps', ''],
@@ -139,13 +139,16 @@ For my Core and Finger-exercises, I incorporate interval training with 4 cycles,
 
 The equipment I use is primarily the hangboard [Beastmaker 2000](https://www.beastmaker.co.uk/products/beastmaker-2000-series) and the 'gymnastic rings' [Penta from YY Vertical](https://www.yyvertical.com/en/products/penta).
 
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Repitition | Time', 'Additional Comments']" :rows="[
-    ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '12 Reps', ''],
-    ['Lying Kneetuck', 'Abs (Rectus Abd.), Hip Flexors', '20 Reps', ''],
-    ['Sideplank', 'Obliques (Int. and Ext.), Abs (Transverse Abd. and Rectus Abd.*), Glutes*', '45 Seconds per Side', ''],
+For exclusively exercising core, I follow [this programme](https://haavard.netlify.app/content/blog/other_thoughts_and_notes/coreprogramme). This is mostly relevant in periods where I have injured fingers or such.
+
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions | Time', 'Additional Comments']" :rows="[
+    ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '4 Sets for 12 Reps', ''],
+    ['Lying Legraise', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 20 Reps', ''],
+    ['Sideplank', 'Obliques (Int. and Ext.), Abs (Transverse Abd. and Rectus Abd.*), Glutes*', '4 Sets for 45 Seconds per Side', ''],
+    ['Bicycle Situps', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 20 Reps', ''],
     ['Hangboard', 'Forearms (Flexors and Extensors), Finger Flexors', '10s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
-    ['Flutterkicks', 'Abs (Rectus Abd.), Hip Flexors', '50 Reps', ''],
-    ['Hanging Kneetuck', 'Abs (Rectus Abd.), Hip Flexors, Forearms(Flexors and Extensors)*', '12 Reps', ''],
+    ['Flutterkicks', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 50 Reps', ''],
+    ['Hanging Kneetuck', 'Abs (Rectus Abd.), Hip Flexors, Forearms(Flexors and Extensors)*', '4 Sets for 12 Reps', ''],
 ]">
 </content-table>
 
