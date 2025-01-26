@@ -84,15 +84,16 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
-    ['Plate-loaded Leg Press', 'Glutes, Quads, Hamstrings*, Adductors*, Erector Spinae*', '4 Sets of 6-12 Reps', ''],
-    ['Uni-lateral Standing Leg Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'DS. '],
-    ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
+    ['Leg extensions', 'Quads', '4 Sets of 8-12 Reps', ''],
+    ['Seated Leg Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'DS. '],
+    ['Weighted Calf Raise (On Leg Press)', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
     ['Quad-focused Pendulum Squats', 'Quads, Glutes*, Hamstrings*', '3-4 Sets for 8-12 Reps', 'DS. '],
     ['Plate-loaded Hipthrust', 'Glutes, Hamstrings', '3-4 Sets of 8-12 Reps', ''],
+    ['Bulgarian Split Squats', 'Glutes, Quads, Hamstrings*, Abductors*', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
 
-Other exercises previously used within this group includes: Leg Extensions, Laying Hamstring Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Bulgarian Split Squats (Led to mild knee pain), Barbell Hip-thrust (Crushed my pinkie under the plates), Belt Squat (Belt hurt), and other varieties of the exercises above.
+Other exercises previously used within this group includes: Laying Hamstring Curls, Uni-lateral Standing Leg Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Barbell Hip-thrust (Crushed my pinkie under the plates), Belt Squat (Belt hurt), Plate-loaded Leg Press, and other varieties of the exercises above.
 
 Recently, I have been experiencing discomfort in my lower back, prompting me to create an adjusted version of my leg sessions that swaps out exercises which place excessive strain on that area, exercises that require significant stabilization, or exercises that involve multiple joints. Additionally, the weights utilised in specific exercises, such as Pendulum Squats and Hip Thrusts, are naturally reduced to ensure proper form throughout the exercises.
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
