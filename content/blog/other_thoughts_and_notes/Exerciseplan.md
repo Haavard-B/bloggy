@@ -15,12 +15,12 @@ With these ideas in mind, I will now explore the specifics of my routine. In the
 
 The following table outlines my weekly exercise schedule before any potential adjustment:
 <content-table :headers="['Day', 'Key area', 'Focus area', 'Additional Comments']" :rows="[
-    ['Monday', 'Rest', '', ''],
-    ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Interval core- and finger-exercises', ''],
-    ['Wednesday', 'Gym + Mobility and Recovery', 'Back and Biceps + Mobility and Recovery', ''],
-    ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Interval core- and finger-exercises', ''],
+    ['Monday', 'Gym + Mobility and Recovery', 'Back and Biceps + Mobility and Recovery', '', ''],
+    ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Core & Finger exercises + Chalisthenics', ''],
+    ['Wednesday', 'Rest', ''],
+    ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Core & Finger exercises + Chalisthenics', ''],
     ['Friday', 'Gym + Mobility and Recovery', 'Chest, Shoulders and Triceps + Mobility and Recovery', ''],
-    ['Saturday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Bouldering-session', ''],
+    ['Saturday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Bouldering-session + Chalisthenics', ''],
     ['Sunday', 'Gym + Mobility and Recovery', 'Legs + Mobility and Recovery', ''],
 ]">
 </content-table>
@@ -63,7 +63,7 @@ Other exercises previously used within this group includes: Dips (Bodyweight and
 
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
-    ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '3-4 Sets of 12 Reps', 'Serves as a harder warm-up'],
+    ['Pull-ups', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '3-4 Sets of 8-12 Reps', 'Serves as a harder warm-up'],
     ['Uni-lateral External Rotation (Cable)', 'Rotator Cuffs(Infra + Teres Minor), Deltoids(Post.)*', '3-4 Sets of 12-15 Reps', 'Low weights to ensure control and proper activation of stabalising muscles'],
     ['Uni-lateral Lever Underhand Pulldown', 'Lats, Rhom, Traps, Biceps, Deltoids(Post)*', '3-4 Sets of 6-12 Reps', 'DS. '],
     ['Barbell Deadlifts', 'Erector Spinae, Glutes, Hamstrings, Lats, Traps, Forearms', '3-4 Sets of 8-12 Reps', ''],
@@ -84,7 +84,7 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
-    ['Leg extensions', 'Quads', '4 Sets of 8-12 Reps', ''],
+    ['Seated Leg Extensions', 'Quads', '4 Sets of 8-12 Reps', ''],
     ['Seated Leg Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'DS. '],
     ['Weighted Calf Raise (On Leg Press)', 'Calves (Gastrocnemius, Soleus)', '4 Sets of 10-15 Reps', ''],
     ['Quad-focused Pendulum Squats', 'Quads, Glutes*, Hamstrings*', '3-4 Sets for 8-12 Reps', 'DS. '],
@@ -95,23 +95,16 @@ Note* Barbell Deadlifts are used on-and-off depending on the state of my lower-b
 
 Other exercises previously used within this group includes: Laying Hamstring Curls, Uni-lateral Standing Leg Curls, Sissy Squats (Led to mild knee pain, and strained lower back muscles), Barbell Hip-thrust (Crushed my pinkie under the plates), Belt Squat (Belt hurt), Plate-loaded Leg Press, and other varieties of the exercises above.
 
-Recently, I have been experiencing discomfort in my lower back, prompting me to create an adjusted version of my leg sessions that swaps out exercises which place excessive strain on that area, exercises that require significant stabilization, or exercises that involve multiple joints. Additionally, the weights utilised in specific exercises, such as Pendulum Squats and Hip Thrusts, are naturally reduced to ensure proper form throughout the exercises.
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
-    ['Seated Leg Extensions', 'Quads', '4 Sets for 8-12 Reps', ''],
-    ['Seated Hamstring Curls', 'Hamstrings', '4 Sets for 8-12 Reps', 'Lower back was slightly engaged in standing Hamstring curls, so I opted for Seated curls instead'],
-    ['Weighted Calf Raise', 'Calves (Gastrocnemius, Soleus)', '4 Sets for 10-15 Reps', ''],
-    ['Pendulum Squats', 'Quads, Glutes', '3-4 Sets for 8-12 Reps', 'Focus on form - May be skipped if the state of the lower back is sub-optimal'],
-    ['Plate-loaded Hip Thrust', 'Glutes, Hamstrings', '4 Sets for 8-12 Reps', '']
-]">
-</content-table>
+Recently, I have been experiencing discomfort in my left knee, prompting me to create an adjusted version of my leg sessions that swaps out or reduce exercises which place excessive strain on that area, exercises that require significant stabilization, or exercises that involve multiple joints. Additionally, the weights utilised in specific exercises, such as Pendulum Squats and Bulgarian Split Squats, are naturally reduced to ensure proper form throughout the exercises and reduce pain.
+
 
 #### Cardio
 I organise my cardio-sessions into three intensity levels: `Low-Intensity`, `Medium-Intensity` and `High-Intensity`. This structure allows me to vary the pace and distance depending on my recovery. In terms of terrain, I remain flexible - Anything goes as long as its not overly steep, though I prefer gravel roads when easily accessible. Before and after each run, regardless of intensity level, I also always incorporate a short mobility session. This routine helps prepare the body for the session ahead, and aids in recovery, easing muscle tension and promotes flexibility afterwards.
 
 <content-table :headers="['Exercise', 'Details', 'Additional Comments']" :rows="[
     ['Low-intensity cardio', '3-5km at a pace of 6-8 minutes per km depending on the distance', ''],
-    ['Medium-intensity cardio', '3-8km at pace of 5-7 minutes per km depending on the distance', ''],
-    ['High-intensity cardio', '3-5km at a pace of < 5 minutes per km depending on the distance', 'Due to persisting knots in my calves, this is not included in the plan'],
+    ['Medium-intensity cardio', '3-8km at pace of 5-6 minutes per km depending on the distance', ''],
+    ['High-intensity cardio', '3-10km at a pace of 4-5 minutes per km depending on the distance', 'Due to persisting knots in my calves, this is not included in the plan'],
 ]">
 </content-table>
 
@@ -130,12 +123,12 @@ I regularly adjust the entire mobility and recovery program based on my specific
 
 
 #### Climbing-focused Sessions
-My Climbing-focused sessions are split into `Interval Core- and Finger-exercises`, where I focus on strength and conditioning, and `Bouldering Sessions`, where I work through a structured programme to improve my general climbing skills. Unlike my other sessions, both of these sessions have a specific purpose: they are designed to enhance my climbing performance, helping me tackle higher grades and refine my technique. By concentrating on targeted strength and skill development, these sessions directly contribute to my progress as a climber. While I do not have a set long-term goal of, for example, climbing an 8a within a 5 year time-span, I do have short-term goals of being able to climb the next higher grade from what I am currently climbing. As of September 2024, the current goal is to climb a 7a before the end of 2024.
+My Climbing-focused sessions are split into `Core & Finger Exercises`, where I focus on strength and conditioning, and `Bouldering Sessions`, where I work through a structured programme to improve my general climbing skills. Unlike my other sessions, both of these sessions have a specific purpose: they are designed to enhance my climbing performance, helping me tackle higher grades and refine my technique. By concentrating on targeted strength and skill development, these sessions directly contribute to my progress as a climber. While I do not have a set long-term goal of, for example, climbing an 8a within a 5 year time-span, I do have short-term goals of being able to climb the next higher grade from what I am currently climbing. As of September 2024, the current goal is to climb a 7a before the end of 2024.
 
 
 
 
-##### Interval Core- and Finger-exercises
+##### Core & Finger Exercises
 For my Core and Finger-exercises, I incorporate interval training with 4 cycles, where I focus on maintaining proper and controlled techniques throughout. In these exercises the aim is not push myself to technical failure, but instead to adhere to a standardised and strict regimen. This method ensures consistency in form and promotes steady progress while minimising the risk of injury. The latter part is particularly important, as utilising finger-training equipment like hangboards are known to increase the risk of injury if not performed with proper technique and control.
 
 The equipment I use is primarily the hangboard [Beastmaker 2000](https://www.beastmaker.co.uk/products/beastmaker-2000-series) and the 'gymnastic rings' [Penta from YY Vertical](https://www.yyvertical.com/en/products/penta).
@@ -143,12 +136,11 @@ The equipment I use is primarily the hangboard [Beastmaker 2000](https://www.bea
 For exclusively exercising core, I follow [this programme](https://haavard.netlify.app/content/blog/other_thoughts_and_notes/coreprogramme). This is mostly relevant in periods where I have injured fingers or such.
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions | Time', 'Additional Comments']" :rows="[
-    ['Pullup', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '4 Sets for 12 Reps', ''],
     ['Lying Legraise', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 20 Reps', ''],
     ['Sideplank', 'Obliques (Int. and Ext.), Abs (Transverse Abd. and Rectus Abd.*), Glutes*', '4 Sets for 45 Seconds per Side', ''],
     ['Bicycle Situps', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 20 Reps', ''],
-    ['Hangboard', 'Forearms (Flexors and Extensors), Finger Flexors', '10s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
-    ['Flutterkicks', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 50 Reps', ''],
+    ['Hangboard', 'Forearms (Flexors and Extensors), Finger Flexors', '8s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
+    ['Flutterkicks', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 50 Reps per Leg', ''],
     ['Hanging Kneetuck', 'Abs (Rectus Abd.), Hip Flexors, Forearms(Flexors and Extensors)*', '4 Sets for 12 Reps', ''],
 ]">
 </content-table>
@@ -175,6 +167,21 @@ Recently, I have also attempted to incorporate a Min-5-approach to my bouldering
 
 The requirement of minimum 5 attempts, on the other hand, is to avoid the mindset of prematurely throwing in the towel on a problem, concluding it is too difficult without giving it a proper attempt. Often, I find myself quick to judge a problem based on its initial appearance or my first attempt, and by committing to multiple, proper attempts, I may move past the opening doubts and frustrations, forcing myself to keep an open mind and challenge myself beyond what I might think I can achieve at first glance. Persistence, embracing trial and error, and being open to experimentation beyond initial expectations is what lies at bouldering's, and rock-climbing in general's core, and by limiting myself with few, half-hearted attempts, I risk stifling my growth as a climber. Each attempt, even if it feels unsuccessful, contributes to my understanding of the route, my own capabilities, and how I may improve.
 
+#### Calisthenics
+
+Recently (Per 09/06/2025), after a prolonged period of poor exercise-motivation, I find myself having become weak in general body weight exercises. In an attempt to quicken the rebound, I will include three sessions of calisthenics sessions focusing exercises improving my foundational upper body strength and control. This is not only about regaining what was lost, but about building a stronger baseline for more advanced skill work down the line. It will also support better climbing performance by enhancing shoulder stability, pulling power, and body awareness on the wall.
+
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions | Time', 'Additional Comments']" :rows="[
+    ['Pull-ups', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '4 Sets to failure', 'Slow range of motion'],
+    ['Scapular Push-ups', '4 Sets for 12 Reps', '', ''],
+    ['Scapular Pull-ups', '', 'TBA', ''],
+    ['Pike Push-ups', '', 'TBA', ''],
+    ['Pseudo Planche Push-ups', '', 'TBA', ''],
+    ['Wall Handstand Hold', '', 'TBA', ''],
+
+]">
+</content-table>
+
 
 #### Other things to be included in the future
 
@@ -182,8 +189,7 @@ Unfortunately, I do not have more time available to spend on exercise without it
 - A balance-focused session. Something that would be held independent from the mobility and climbing-focused sessions, and likely provide a decent amount of benefits. 
 
 Other "aspects" of the my exercise-plan to be noted: 
-- The core section of the `Interval Core- and Finger-exercises` will be revised, as it currently is quite sub-optimal.
-- I will likely experiment with moving away from having my rest-day on Mondays, to instead having it mid-week (Either Wednesday, Thursday, or Friday).
+- The core section of the `Core & Finger Exercises` will be revised, as it currently is quite sub-optimal.
 
 
 
