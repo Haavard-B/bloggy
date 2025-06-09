@@ -15,7 +15,7 @@ With these ideas in mind, I will now explore the specifics of my routine. In the
 
 The following table outlines my weekly exercise schedule before any potential adjustment:
 <content-table :headers="['Day', 'Key area', 'Focus area', 'Additional Comments']" :rows="[
-    ['Monday', 'Gym + Mobility and Recovery', 'Back and Biceps + Mobility and Recovery', '', ''],
+    ['Monday', 'Gym + Mobility and Recovery', 'Back and Biceps + Mobility and Recovery', ''],
     ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Core & Finger exercises + Chalisthenics', ''],
     ['Wednesday', 'Rest', ''],
     ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Core & Finger exercises + Chalisthenics', ''],
