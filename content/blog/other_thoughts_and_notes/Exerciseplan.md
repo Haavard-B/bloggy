@@ -178,7 +178,6 @@ Recently (Per 09/06/2025), after a prolonged period of poor exercise-motivation,
     ['Pike Push-ups', '', 'TBA', ''],
     ['Pseudo Planche Push-ups', '', 'TBA', ''],
     ['Wall Handstand Hold', '', 'TBA', ''],
-
 ]">
 </content-table>
 
