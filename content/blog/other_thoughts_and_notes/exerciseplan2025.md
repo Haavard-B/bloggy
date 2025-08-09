@@ -66,7 +66,7 @@ min 48 timer restitusjon mellom hver muskelgruppe - Se ex. compound økt og kalt
 
 ##### Bouldering
 
-##### Lead/Top rope/Auto Belay
+##### Lead/Top Rope/Auto Belay
 
 
 ### Potential Expansions
