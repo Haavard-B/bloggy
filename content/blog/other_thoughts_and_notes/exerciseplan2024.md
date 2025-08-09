@@ -1,5 +1,5 @@
 ---
-title: Current Exercise-plan
+title: Exercise-plan for 2024
 description: Exercise log and notes
 date: 2024.09.09
 readable: true
@@ -14,14 +14,14 @@ Throughout each week, I make sure to meticulously note down the details of each 
 With these ideas in mind, I will now explore the specifics of my routine. In the following sections, I will provide a detailed breakdown of each key area, highlighting how they contribute to my overall fitness goals, as well as provide thorough insights into the structure of my weekly plan. For a deeper dive into my motivation, methodology and the principles guiding my exercise strategy, feel free to reed about [my exercise philosophy](https://haavard.netlify.app/content/blog/other_thoughts_and_notes/workoutphilosophy).
 
 The following table outlines my weekly exercise schedule before any potential adjustment:
-<content-table :headers="['Day', 'Key area', 'Focus area', 'Additional Comments']" :rows="[
-    ['Monday', 'Gym + Mobility and Recovery', 'Back and Biceps + Mobility and Recovery', ''],
-    ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Core & Finger exercises + Chalisthenics', ''],
+<content-table :headers="['Day', 'Key area', 'Focus area']" :rows="[
+    ['Monday', 'Gym + Mobility and Recovery', 'Back and Biceps + Mobility and Recovery'],
+    ['Tuesday', 'Cardio + Climbing-focused exercises', 'Low-intensity cardio + Core & Finger exercises + Calisthenics'],
     ['Wednesday', 'Rest', ''],
-    ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Core & Finger exercises + Chalisthenics', ''],
-    ['Friday', 'Gym + Mobility and Recovery', 'Chest, Shoulders and Triceps + Mobility and Recovery', ''],
-    ['Saturday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Bouldering-session + Chalisthenics', ''],
-    ['Sunday', 'Gym + Mobility and Recovery', 'Legs + Mobility and Recovery', ''],
+    ['Thursday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Core & Finger exercises + Calisthenics'],
+    ['Friday', 'Gym + Mobility and Recovery', 'Chest, Shoulders and Triceps + Mobility and Recovery'],
+    ['Saturday', 'Cardio + Climbing-focused exercises', 'Medium-intensity cardio + Bouldering-session + Calisthenics'],
+    ['Sunday', 'Gym + Mobility and Recovery', 'Legs + Mobility and Recovery'],
 ]">
 </content-table>
 
@@ -166,20 +166,6 @@ When I refer to low-, middle-, and high-grade problems, I’m speaking based on 
 Recently, I have also attempted to incorporate a Min-5-approach to my bouldering sessions, specifically the Technique-focused phase and Grade-chasing phase. The idea is to give yourself minimum 5 attempts to solve a bouldering-problem, regardless of its difficulty. Additionally, for each attempt, regardless of how far I advanced on the problem, I am to give at least two pieces of feedback to myself on how to further advance on the problem. These could be observations on body positions, grip technique, balance, or other technical aspects. This 'self-assessment' forces me to analyse what went right or wrong in each try, thereby improving both my technique and my ability to read bouldering problems. 
 
 The requirement of minimum 5 attempts, on the other hand, is to avoid the mindset of prematurely throwing in the towel on a problem, concluding it is too difficult without giving it a proper attempt. Often, I find myself quick to judge a problem based on its initial appearance or my first attempt, and by committing to multiple, proper attempts, I may move past the opening doubts and frustrations, forcing myself to keep an open mind and challenge myself beyond what I might think I can achieve at first glance. Persistence, embracing trial and error, and being open to experimentation beyond initial expectations is what lies at bouldering's, and rock-climbing in general's core, and by limiting myself with few, half-hearted attempts, I risk stifling my growth as a climber. Each attempt, even if it feels unsuccessful, contributes to my understanding of the route, my own capabilities, and how I may improve.
-
-#### Calisthenics
-
-Recently (Per 09/06/2025), after a prolonged period of poor exercise-motivation, I find myself having become weak in general body weight exercises. In an attempt to quicken the rebound, I will include three sessions of calisthenics sessions focusing exercises improving my foundational upper body strength and control. This is not only about regaining what was lost, but about building a stronger baseline for more advanced skill work down the line. It will also support better climbing performance by enhancing shoulder stability, pulling power, and body awareness on the wall.
-
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions | Time', 'Additional Comments']" :rows="[
-    ['Pull-ups', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '4 Sets to failure', 'Slow range of motion'],
-    ['Scapular Push-ups', '4 Sets for 12 Reps', '', ''],
-    ['Scapular Pull-ups', '', 'TBA', ''],
-    ['Pike Push-ups', '', 'TBA', ''],
-    ['Pseudo Planche Push-ups', '', 'TBA', ''],
-    ['Wall Handstand Hold', '', 'TBA', ''],
-]">
-</content-table>
 
 
 #### Other things to be included in the future
