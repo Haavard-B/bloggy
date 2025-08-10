@@ -34,7 +34,7 @@ Woodcarving:
 - Minimum one session a week focused on improving my woodcarving skills. The length and content of a session may vary from one session to the other. I will, at a later date, create a plan on how I will go forward in bettering my woodcarving.
 Rockclimbing:
 - I will maintain my current routine of 1 bouldering session a week, as well as supplementing by continuing the routine for finger and core strength, mobility, and balance. However, given two of my fingers have experienced pulley injuries (Middle and ring finger, A2 and/or A3 on both), I will wait until my injuries are fully healed.
-- I will also spend more time focusing on betting my technique, as I feel I have the strength to climb 7A but technique to 6B.
+- I will also spend more time focusing on bettering my technique, as I feel I have the strength to climb 7A but technique to 6B.
 Jiu Jitsu:
 - I will explore its availability and potentially switch out my core routine with Jiu Jitsu training (Twice a week).
 Sailing:

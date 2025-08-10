@@ -1,12 +1,13 @@
 ---
-title: A Maslow's Hierarchy of Needs-Inspired Philosophy
+title: The Architecture of Joy
 date: 2024.01.01
 readable: false
 ---
 
+A Maslow's Hierarchy of Needs
 
 
-The idea is if all basic needs are met, then the later needs are met, you should be happy or something. Or: The concept is grounded in the idea when fundamental human needs are consistently met and fulfilled, it paves the way for greater fulfillment. it is a priority ladder of kinds.
+The idea is if all basic needs are met, then the later needs are met, you should be happy or something. Or: The concept is grounded in the idea when fundamental human needs are consistently met and fulfilled, it paves the way for greater fulfillment. it is a priority ladder of kinds. similar o the sailboat metaphor
 Though, this grounds for general human rights/needs to be met as in a place to stay, food, water, etc.
 
 Bottom level: Non-Negotiable Essentials for Survival - Fundamental physiological needs
@@ -32,4 +33,5 @@ Fourth level: Fulfilment
 - Purpose
 - Values
 - Direction
+- Altruism?
 
