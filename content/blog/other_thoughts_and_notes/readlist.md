@@ -17,7 +17,6 @@ These books are in no particular order of being read or bought. *** means they h
 
 #### Phsychology
 - Wright, R. (1994). The moral animal.*
-- Housel, M. (2020). The Psychology of Money.
 - Greene, R. (2018). The Law of Human Nature.*
 - Watson, J. B. (1919). The Psychology of Human Nature *
 - Skinner, B. F. (1953). The Psychology of Human Behaviour.*
@@ -33,17 +32,8 @@ These books are in no particular order of being read or bought. *** means they h
 - Lawrence, D. H. (1920). Women in love. ***
 - Heller, J. (1974). Something happened. ***
 - Wouk, H. (1951). The Caine mutiny. ***
-- Allen, D. (2001). Getting things done: The art of stress-free productivity. ***
-- Greene, R. (2006). The 33 Strategies of War.
-- Greene, R. (1998). The 48 Laws of Power.
 - Wallace, D, F. (1996). Infinite Jest.
-
-#### Resources and Readlists
-(Note: These are used as inspiration and for discovery more than as a readlist)
-- [Oxford Handbooks on Philosophy](https://www.thriftbooks.com/series/oxford-handbooks-in-philosophy/71161/?srsltid=AfmBOor5uIlGjdon8tXVAnLz1O8eaEISIGEbaX60wQ-6EvxcCzGlygi1)
-- [The Collaborative Fund Readlist](https://collabfund.com/blog/good-books/)
-- [Chris Williamson's Readlist](https://www.goodreads.com/list/show/184325.100_Books_To_Read_Before_You_Die_by_Chris_Williamson)
-
+- All Kafka
 
 #### Other Books and such to be reviewed to read or not:
 - James, W. (1890). The Principles of Psychology. (A foundational work in psychology, this book covers a wide range of topics, including consciousness, memory, emotions, and willpower. James provides a comprehensive overview of psychological principles and is considered one of the founding texts of modern psychology.)
@@ -57,5 +47,5 @@ These books are in no particular order of being read or bought. *** means they h
 - Skinner, B. F. (1971). Beyond Freedom and Dignity. (In this controversial work, Skinner argues that the concepts of free will and human dignity should be reconsidered in light of his behaviourist principles. He suggests that societal control and reinforcement are necessary to improve human behaviour and progress.)
 - Lewin, K. (1936). Principles of Topological Psychology. (Kurt Lewin’s work in social psychology and field theory, where he explores how an individual’s behaviour is influenced by both internal forces and the external environment. His field theory emphasizes the dynamic interaction between the person and the situation.)
 - Cialdini, R. B. (1984). Influence: The Psychology of Persuasion. (Cialdini explores the six universal principles of influence—reciprocity, commitment, social proof, authority, liking, and scarcity—that guide human behaviour in social and professional contexts. This book is a key resource for understanding persuasion psychology.)
-- Damasio, A. (1994). Descartes' Error: Emotion, Reason, and the Human Brain. (Damasio argues that emotions are crucial to rational decision-making, challenging the traditional dichotomy between reason and emotion. He discusses how the brain integrates emotion and cognition, fundamentally altering our understanding of human behavior and decision-making.)
+- Damasio, A. (1994). Descartes' Error: Emotion, Reason, and the Human Brain. (Damasio argues that emotions are crucial to rational decision-making, challenging the traditional dichotomy between reason and emotion. He discusses how the brain integrates emotion and cognition, fundamentally altering our understanding of human behaviour and decision-making.)
 - Brooks, D. (2015). The Road to Character. (Brooks examines the development of moral character and how modern society emphasizes résumé virtues over eulogy virtues. The book explores the psychology behind developing virtues such as humility, resilience, and integrity.)
