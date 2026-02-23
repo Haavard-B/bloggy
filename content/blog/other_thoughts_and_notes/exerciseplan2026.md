@@ -1,41 +1,52 @@
 ---
-title: Exercise-plan for 2025
+title: Exercise-plan for 2026
 description: Exercise log and notes
-date: 2025.08.09
+date: 2026.02.23
 readable: true
 ---
 
 
 The following table outlines my weekly exercise schedule before any potential adjustment:
 <content-table :headers="['Day', 'Key area', 'Focus area']" :rows="[
-    ['Monday', 'Gym + Cardio', 'Pull (And Shoulders) + Easy Jog '],
-    ['Tuesday', 'Cardio + Rock Climbing', 'Interval Training + Core & Finger Training'],
-    ['Wednesday', 'Gym + (Pot.)', 'Upperbody(Compound)'],
-    ['Thursday', 'Cardio + Rock Climbing', 'Tempo Run + Core & Finger Training'],
-    ['Friday', 'Gym + (Pot.)', 'Push'],
-    ['Saturday', 'Cardio + Rock Climbing', 'Long Run + Rock Climbing Session'],
-    ['Sunday', 'Cardio + Gym', 'Easy Jog + Legs'],
+    ['Monday', 'Cardio + Rock-Climbing', 'Light Jog/Tempo Run + Core & Finger Training'],
+    ['Tuesday', 'Gym', 'Pull (And Shoulders)'],
+    ['Wednesday', 'Cardio + Rock-Climbing', 'Interval Training + Core & Finger Training'],
+    ['Thursday', 'Gym', 'Push'],
+    ['Friday', 'Rock Climbing', 'Rock Climbing Session (Bouldering + Rope)'],
+    ['Saturday', 'Gym', 'Legs'],
+    ['Sunday', 'Cardio ', 'Light Jog'],
 ]">
 </content-table>
 
-<!---
-Generelle regler for styrke:
-min 48 timer restitusjon mellom hver muskelgruppe - Se ex. compound økt og klatre
--->
+The general rule: Allow a minimum of 48 hours of recovery between training the same muscle group.
 
 ### Gym
+
+<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[  ['Pull-ups', 'Lats, Rhomboids, Biceps, Traps, Rotator Cuffs*', '3-4 Sets of 8-12 Reps', 'Serves as a harder warm-up for upper back and biceps'], 
+    ['Barbell Bench Press', 'Pectorals, Deltoids (Ant.), Triceps', '3-4 Sets of 6-10 Reps', 'Focus on full range of motion and controlled descent'], 
+    ['Barbell Deadlift', 'Erector Spinae, Glutes, Hamstrings, Lats, Traps, Forearms', '3-4 Sets of 5-8 Reps', 'Keep core tight and spine neutral; consider lighter weight to focus on form'], 
+    ['Lat Pulldown (Cable or Machine)', 'Lats, Rhomboids, Biceps, Traps', '3-4 Sets of 8-12 Reps', 'Can substitute with weighted pull-ups if needed'], 
+    ['(Iso-lateral) Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', 'Seated for more stability; avoid arching back'], 
+    ['Barbell Back Squat', 'Quadriceps, Glutes, Hamstrings, Erector Spinae, Core', '3-4 Sets of 6-10 Reps', 'Focus on depth and controlled movement; warm-up thoroughly'], 
+    ['Bilateral Row', 'Lats, Rhom, Traps, Biceps, Deltoids (Post)', '3-4 Sets of 8-12 Reps', ''],
+]">
+</content-table>
+
+While the plan above is structured around a pull/push/legs split, I’ll start with full-body workouts during the first couple of months. This is to focus on rebuilding general strength and regaining muscle after a period with little strength training.
+
+<!--
 
 #### Pull
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
     ['Pull-ups', 'Lats, Rhom, Biceps, Traps, Rotator Cuffs*', '3-4 Sets of 8-12 Reps', 'Serves as a harder warm-up'],
     ['Uni-lateral External Rotation (Cable)', 'Rotator Cuffs(Infra + Teres Minor), Deltoids(Post.)*', '3-4 Sets of 12-15 Reps', 'Low weights to ensure control and proper activation of stabalising muscles'],
-    ['Uni-lateral Lever Underhand Pulldown', 'Lats, Rhom, Traps, Biceps, Deltoids(Post)*', '3-4 Sets of 6-12 Reps', 'DS. '],
+    ['Uni-lateral Lever Underhand Pulldown', 'Lats, Rhom, Traps, Biceps, Deltoids(Post)*', '3-4 Sets of 6-12 Reps', ''],
     ['Barbell Deadlifts', 'Erector Spinae, Glutes, Hamstrings, Lats, Traps, Forearms', '3-4 Sets of 8-12 Reps', ''],
-    ['Iso-lateral Row', 'Lats, Rhom, Traps, Biceps, Deltoids (Post)', '3-4 Sets of 8-12 Reps', 'DS.'],
-    ['Uni-lateral Forward-leaning Bicep Curl (Cable)', 'Biceps, Brachialis', '3-4 Sets of 8-12 Reps', 'DS.'],
+    ['Iso-lateral Row', 'Lats, Rhom, Traps, Biceps, Deltoids (Post)', '3-4 Sets of 8-12 Reps', ''],
+    ['Uni-lateral Forward-leaning Bicep Curl (Cable)', 'Biceps, Brachialis', '3-4 Sets of 8-12 Reps', ''],
     ['Cable Face Pull', 'Deltoids (Rear + Lat.*), Rhom, Traps', '3-4 Sets of 8-12 Reps', ''],
-    ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', ''],
     ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
@@ -44,10 +55,10 @@ min 48 timer restitusjon mellom hver muskelgruppe - Se ex. compound økt og klat
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
     ['Iso-lateral Bench Press', 'Pectoralis(Major(Mid)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
-    ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
-    ['Uni-lateral Cable Tricep Kickback', 'Triceps, Deltoid (Post)*', '3-4 Sets of 8-12 Reps', 'DS.'],
-    ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', 'DS. '],
-    ['Iso-lateral Incline Dumbbell Bench Press', 'Pectoralis(Major(Upper + Mid*)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', 'DS. '],
+    ['Iso-lateral Dumbbell Shoulder Press', 'Deltoids (Ant. + Lat.), Triceps', '3-4 Sets of 8-12 Reps', ''],
+    ['Uni-lateral Cable Tricep Kickback', 'Triceps, Deltoid (Post)*', '3-4 Sets of 8-12 Reps', ''],
+    ['Uni-lateral Leaning Lateral Raise (Cable)', 'Deltoids (Lat.)', '3-4 Sets of 8-12 Reps', ''],
+    ['Iso-lateral Incline Dumbbell Bench Press', 'Pectoralis(Major(Upper + Mid*)), Deltoids (Ant.), Triceps', '3-4 Sets of 8-12 Reps', ''],
     ['Iso-lateral Incline Flies', 'Pectoralis(Major(Upper + Mid)), Deltoids (Ant.), Triceps*', '3-4 Sets of 8-12 Reps', ''],
 ]">
 </content-table>
@@ -61,21 +72,6 @@ min 48 timer restitusjon mellom hver muskelgruppe - Se ex. compound økt og klat
     ['Quad-focused Pendulum Squats', 'Quads, Glutes*, Hamstrings*', '3-4 Sets for 8-12 Reps', 'DS. '],
     ['Plate-loaded Hipthrust', 'Glutes, Hamstrings', '3-4 Sets of 8-12 Reps', ''],
     ['Bulgarian Split Squats', 'Glutes, Quads, Hamstrings*, Abductors*', '3-4 Sets of 8-12 Reps', ''],
-]">
-</content-table>
-
-<!---
-
-#### Upper body
-
-Focus on compound exercises to counterweigh what running does for legs and core.
-
-<content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions', 'Additional Comments']" :rows="[
-    ['Barbell Benchpress','', '', ''],
-    ['Barbell Row','', '', ''],
-    ['Overhead Press','', '', ''],
-    ['Weighted Pullups','', '', ''],
-    ['Deadlift','', '', ''],
 ]">
 </content-table>
 
@@ -95,7 +91,7 @@ Focus on compound exercises to counterweigh what running does for legs and core.
 
 
 
-10 min easy jog warm up and cooldown for all except easy jog
+10 min easy jog warm up and cooldown for all except easy jog.
 
 
 ### Rock Climbing
@@ -104,12 +100,12 @@ Focus on compound exercises to counterweigh what running does for legs and core.
 #### Core & Finger Training
 
 <content-table :headers="['Exercise', 'Primary Muscle Groups', 'Sets and Repetitions | Time', 'Additional Comments']" :rows="[
-    ['Lying Legraise', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 20 Reps', ''],
-    ['Sideplank', 'Obliques (Int. and Ext.), Abs (Transverse Abd. and Rectus Abd.*), Glutes*', '4 Sets for 45 Seconds per Side', ''],
-    ['Bicycle Situps', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 20 Reps', ''],
+    ['Lying Legraise', 'Abs (Rectus Abd.), Hip Flexors', '3 Sets for 20 Reps', ''],
+    ['Sideplank', 'Obliques (Int. and Ext.), Abs (Transverse Abd. and Rectus Abd.*), Glutes*', '3 Sets for 45 Seconds per Side', ''],
+    ['Bicycle Situps', 'Abs (Rectus Abd.), Hip Flexors', '3 Sets for 20 Reps', ''],
     ['Hangboard', 'Forearms (Flexors and Extensors), Finger Flexors', '8s/8s On/Off for 6 Mini-sets', 'Holds used: 0 Degree Sloper, 4 Finger Crimp (20mm), 20 Degree Sloper, Elbow-Locked 4 Finger Crimp (20mm). Previously used holds includes 4 Finger Crimp (10mm), Big 2 Finger Pockets'],
-    ['Flutterkicks', 'Abs (Rectus Abd.), Hip Flexors', '4 Sets for 50 Reps per Leg', ''],
-    ['Hanging Kneetuck', 'Abs (Rectus Abd.), Hip Flexors, Forearms(Flexors and Extensors)*', '4 Sets for 12 Reps', ''],
+    ['Flutterkicks', 'Abs (Rectus Abd.), Hip Flexors', '3 Sets for 50 Reps per Leg', ''],
+    ['Hanging Kneetuck', 'Abs (Rectus Abd.), Hip Flexors, Forearms(Flexors and Extensors)*', '3 Sets for 12 Reps', ''],
 ]">
 </content-table>
 
@@ -120,9 +116,6 @@ Lead/Top Rope/Auto Belay
 
 Warmup > Light climbing / easy problems > Technique focused + challenge > cooldown
 
-### Potential Expansions
-
-Swimming, bjj
 
 ### Mobility and Recovery
 
