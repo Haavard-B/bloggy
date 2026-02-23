@@ -1,18 +1,21 @@
 ---
 title: To-be-read-list
-date: 2024.01.01
+date: 2026.01.01
 readable: true
 ---
 
 These books are in no particular order of being read or bought. *** means they have been acquired but is to be read, whereas * means they are on the 'to-be-bought'-list or is of higher priority than others to be acquired. 
 
 #### Philosophy
-- Mishima, Y. (1970). Sun and steel.
+- Mishima, Y. (1970). Sun and steel. *
 - Dawkins, R. (1976). The selfish gene.
 - Frankl, V. (1946). Man's Search for Meaning.*
-- Horowitz, A. (2013). On looking: Eleven walks with expert eyes.*
+- Horowitz, A. (2013). On looking: Eleven walks with expert eyes.
 - Robinson, D. S. (Ed.). (2001). The Cambridge companion to philosophy.
-
+- Homer. (~700 BCE). The Illiad. ***
+- Homer. (~700 BCE). The Odyssey. *
+- Seneca, L. A. (2017). Letters on Ethics - To Lucilius.
+-  Miyamoto, M. (1645). Dokkōdō. *
 
 
 #### Phsychology
@@ -28,12 +31,20 @@ These books are in no particular order of being read or bought. *** means they h
 - Sacks, O. (1985). The Man who Mistook his Wife for a Hat.*
 - May, Rollo. (1969). Love and Will.
 
+#### Sports
+- Sande, E., Nordahl, E. (2016). Trygge Toppturer. ***
+- Hauge, A. U. (2018). Siste tur. ***
+- Sande, E. (2021). Toppturboka. ***
+- Christophersen, S. (2024). Klatreskadebibelen. ***
+- Christphersen, S., Mobråten, M. (2020). Klatrebibelen - Praktiske Øvelser. ***
+- Christphersen, S., Mobråten, M. (2021). Klatrebibelen - Trening for klatring. ***
+
 #### Other
 - Lawrence, D. H. (1920). Women in love. ***
 - Heller, J. (1974). Something happened. ***
 - Wouk, H. (1951). The Caine mutiny. ***
 - Wallace, D, F. (1996). Infinite Jest.
-- All Kafka
+- All Kafka ***
 
 #### Other Books and such to be reviewed to read or not:
 - James, W. (1890). The Principles of Psychology. (A foundational work in psychology, this book covers a wide range of topics, including consciousness, memory, emotions, and willpower. James provides a comprehensive overview of psychological principles and is considered one of the founding texts of modern psychology.)
